@@ -1,0 +1,6851 @@
+[
+	{
+		"id": "C021",
+		"name": "22",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": ["22/22.png"]
+	},
+	{
+		"id": "C022",
+		"name": "33",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": ["33/33.png"]
+	},
+	{
+		"id": "336",
+		"name": "Abercrombie",
+		"hull": "Misc",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"abercrombie/abercrombie.png",
+			"abercrombie/abercrombie_2.png",
+			"abercrombie/abercrombie_3.png",
+			"abercrombie/abercrombie_4.png"
+		]
+	},
+	{
+		"id": "187",
+		"name": "Abukuma",
+		"hull": "CL",
+		"rarity": "Common",
+		"faction": "Sakura Empire",
+		"images": ["abukuma/abukuma.png", "abukuma/abukuma_g.png"]
+	},
+	{
+		"id": "82",
+		"name": "Acasta",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"acasta/acasta.png",
+			"acasta/acasta_2.png",
+			"acasta/acasta_3.png",
+			"acasta/acasta_4.png",
+			"acasta/acasta_g.png"
+		]
+	},
+	{
+		"id": "105",
+		"name": "Achilles",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": ["achilles/achilles.png", "achilles/achilles_g.png"]
+	},
+	{
+		"id": "246",
+		"name": "Admiral Graf Spee",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": [
+			"admiral_graf_spee/admiral_graf_spee.png",
+			"admiral_graf_spee/admiral_graf_spee_2.png",
+			"admiral_graf_spee/admiral_graf_spee_3.png",
+			"admiral_graf_spee/admiral_graf_spee_4.png",
+			"admiral_graf_spee/admiral_graf_spee_5.png",
+			"admiral_graf_spee/admiral_graf_spee_younv.png"
+		]
+	},
+	{
+		"id": "242",
+		"name": "Admiral Hipper",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": [
+			"admiral_hipper/admiral_hipper.png",
+			"admiral_hipper/admiral_hipper_3.png",
+			"admiral_hipper/admiral_hipper_idol.png"
+		]
+	},
+	{
+		"id": "612",
+		"name": "Adventure Gallery",
+		"hull": "Misc",
+		"rarity": "Elite",
+		"faction": "Tempesta",
+		"images": [
+			"adventure_gallery/adventure_gallery.png",
+			"adventure_gallery/adventure_gallery_2.png"
+		]
+	},
+	{
+		"id": "321",
+		"name": "Agano",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"agano/agano.png",
+			"agano/agano_2.png",
+			"agano/agano_3.png",
+			"agano/agano_4.png"
+		]
+	},
+	{
+		"id": "106",
+		"name": "Ajax",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"ajax/ajax.png",
+			"ajax/ajax_2.png",
+			"ajax/ajax_3.png",
+			"ajax/ajax_g.png"
+		]
+	},
+	{
+		"id": "224",
+		"name": "Akagi",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"akagi/akagi.png",
+			"akagi/akagi_2.png",
+			"akagi/akagi_3.png",
+			"akagi/akagi_4.png",
+			"akagi/akagi_5.png",
+			"akagi/akagi_6.png",
+			"akagi/akagi_h.png",
+			"akagi/akagi_idol.png",
+			"akagi/akagi_younv.png"
+		]
+	},
+	{
+		"id": "232",
+		"name": "Akashi",
+		"hull": "AR",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"akashi/akashi.png",
+			"akashi/akashi_2.png",
+			"akashi/akashi_3.png",
+			"akashi/akashi_4.png",
+			"akashi/akashi_5.png",
+			"akashi/akashi_h.png"
+		]
+	},
+	{
+		"id": "159",
+		"name": "Akatsuki",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"akatsuki/akatsuki.png",
+			"akatsuki/akatsuki_2.png",
+			"akatsuki/akatsuki_3.png",
+			"akatsuki/akatsuki_4.png",
+			"akatsuki/akatsuki_5.png"
+		]
+	},
+	{
+		"id": "C075",
+		"name": "Akizuki Ritsuko",
+		"hull": "Misc",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": [
+			"akizuki_ritsuko/akizuki_ritsuko.png",
+			"akizuki_ritsuko/akizuki_ritsuko_2.png"
+		]
+	},
+	{
+		"id": "401",
+		"name": "Alabama",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": ["alabama/alabama.png", "alabama/alabama_2.png"]
+	},
+	{
+		"id": "358",
+		"name": "Albacore",
+		"hull": "SS",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"albacore/albacore.png",
+			"albacore/albacore_3.png",
+			"albacore/albacore_4.png",
+			"albacore/albacore_idol.png"
+		]
+	},
+	{
+		"id": "570",
+		"name": "Albion",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"albion/albion.png",
+			"albion/albion_2.png",
+			"albion/albion_3.png"
+		]
+	},
+	{
+		"id": "562",
+		"name": "Alfredo Oriani",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sardegna Empire",
+		"images": [
+			"alfredo_oriani/alfredo_oriani.png",
+			"alfredo_oriani/alfredo_oriani_2.png"
+		]
+	},
+	{
+		"id": "455",
+		"name": "Algérie",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Vichya Dominion",
+		"images": [
+			"algérie/algérie.png",
+			"algérie/algérie_2.png",
+			"algérie/algérie_3.png",
+			"algérie/algérie_alter.png"
+		]
+	},
+	{
+		"id": "508",
+		"name": "Allen M. Sumner",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"allen_m._sumner/allen_m._sumner.png",
+			"allen_m._sumner/allen_m._sumner_2.png",
+			"allen_m._sumner/allen_m._sumner_3.png"
+		]
+	},
+	{
+		"id": "367",
+		"name": "Amagi",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"amagi/amagi.png",
+			"amagi/amagi_2.png",
+			"amagi/amagi_3.png",
+			"amagi/amagi_younv.png"
+		]
+	},
+	{
+		"id": "C071",
+		"name": "Amami Haruka",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"amami_haruka/amami_haruka.png",
+			"amami_haruka/amami_haruka_2.png"
+		]
+	},
+	{
+		"id": "81",
+		"name": "Amazon",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"amazon/amazon.png",
+			"amazon/amazon_2.png",
+			"amazon/amazon_g.png"
+		]
+	},
+	{
+		"id": "253",
+		"name": "An shan",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Dragon Empery",
+		"images": [
+			"an_shan/an_shan.png",
+			"an_shan/an_shan_2.png",
+			"an_shan/an_shan_3.png",
+			"an_shan/an_shan_g.png"
+		]
+	},
+	{
+		"id": "P018",
+		"name": "Anchorage",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"anchorage/anchorage.png",
+			"anchorage/anchorage_2.png",
+			"anchorage/anchorage_3.png"
+		]
+	},
+	{
+		"id": "595",
+		"name": "Andrea Doria",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Sardegna Empire",
+		"images": [
+			"andrea_doria/andrea_doria.png",
+			"andrea_doria/andrea_doria_2.png"
+		]
+	},
+	{
+		"id": "192",
+		"name": "Aoba",
+		"hull": "CA",
+		"rarity": "Common",
+		"faction": "Sakura Empire",
+		"images": ["aoba/aoba.png"]
+	},
+	{
+		"id": "502",
+		"name": "Aquila",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Sardegna Empire",
+		"images": [
+			"aquila/aquila.png",
+			"aquila/aquila_2.png",
+			"aquila/aquila_3.png"
+		]
+	},
+	{
+		"id": "334",
+		"name": "Arashio",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": ["arashio/arashio.png", "arashio/arashio_3.png"]
+	},
+	{
+		"id": "513",
+		"name": "Archerfish",
+		"hull": "SS",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"archerfish/archerfish.png",
+			"archerfish/archerfish_2.png",
+			"archerfish/archerfish_3.png"
+		]
+	},
+	{
+		"id": "83",
+		"name": "Ardent",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"ardent/ardent.png",
+			"ardent/ardent_2.png",
+			"ardent/ardent_3.png",
+			"ardent/ardent_g.png"
+		]
+	},
+	{
+		"id": "116",
+		"name": "Arethusa",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": ["arethusa/arethusa.png"]
+	},
+	{
+		"id": "583",
+		"name": "Argus",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["argus/argus.png", "argus/argus_2.png", "argus/argus_3.png"]
+	},
+	{
+		"id": "175",
+		"name": "Ariake",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"ariake/ariake.png",
+			"ariake/ariake_2.png",
+			"ariake/ariake_g.png"
+		]
+	},
+	{
+		"id": "55",
+		"name": "Arizona",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"arizona/arizona.png",
+			"arizona/arizona_2.png",
+			"arizona/arizona_alter.png"
+		]
+	},
+	{
+		"id": "144",
+		"name": "Ark Royal",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"ark_royal/ark_royal.png",
+			"ark_royal/ark_royal_2.png",
+			"ark_royal/ark_royal_3.png",
+			"ark_royal/ark_royal_4.png",
+			"ark_royal/ark_royal_5.png",
+			"ark_royal/ark_royal_alter.png",
+			"ark_royal/ark_royal_g.png",
+			"ark_royal/ark_royal_h.png"
+		]
+	},
+	{
+		"id": "536",
+		"name": "Arkhangelsk",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Northern Parliament",
+		"images": [
+			"arkhangelsk/arkhangelsk.png",
+			"arkhangelsk/arkhangelsk_2.png",
+			"arkhangelsk/arkhangelsk_3.png"
+		]
+	},
+	{
+		"id": "608",
+		"name": "Asanagi",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["asanagi/asanagi.png", "asanagi/asanagi_2.png"]
+	},
+	{
+		"id": "331",
+		"name": "Asashio",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"asashio/asashio.png",
+			"asashio/asashio_2.png",
+			"asashio/asashio_4.png",
+			"asashio/asashio_5.png"
+		]
+	},
+	{
+		"id": "198",
+		"name": "Ashigara",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"ashigara/ashigara.png",
+			"ashigara/ashigara_2.png",
+			"ashigara/ashigara_3.png"
+		]
+	},
+	{
+		"id": "46",
+		"name": "Astoria",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"astoria/astoria.png",
+			"astoria/astoria_2.png",
+			"astoria/astoria_3.png"
+		]
+	},
+	{
+		"id": "C101",
+		"name": "Asuka",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": ["asuka/asuka.png", "asuka/asuka_2.png"]
+	},
+	{
+		"id": "C084",
+		"name": "Asukagawa Chise",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"asukagawa_chise/asukagawa_chise.png",
+			"asukagawa_chise/asukagawa_chise_2.png",
+			"asukagawa_chise/asukagawa_chise_3.png"
+		]
+	},
+	{
+		"id": "201",
+		"name": "Atago",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"atago/atago.png",
+			"atago/atago_2.png",
+			"atago/atago_3.png",
+			"atago/atago_4.png",
+			"atago/atago_5.png",
+			"atago/atago_h.png"
+		]
+	},
+	{
+		"id": "34",
+		"name": "Atlanta",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["atlanta/atlanta.png"]
+	},
+	{
+		"id": "596",
+		"name": "Attilio Regolo",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Sardegna Empire",
+		"images": [
+			"attilio_regolo/attilio_regolo.png",
+			"attilio_regolo/attilio_regolo_2.png",
+			"attilio_regolo/attilio_regolo_3.png"
+		]
+	},
+	{
+		"id": "P020",
+		"name": "August von Parseval",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"august_von_parseval/august_von_parseval.png",
+			"august_von_parseval/august_von_parseval_2.png"
+		]
+	},
+	{
+		"id": "15",
+		"name": "Aulick",
+		"hull": "DD",
+		"rarity": "Common",
+		"faction": "Eagle Union",
+		"images": ["aulick/aulick.png"]
+	},
+	{
+		"id": "118",
+		"name": "Aurora",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"aurora/aurora.png",
+			"aurora/aurora_2.png",
+			"aurora/aurora_3.png",
+			"aurora/aurora_4.png",
+			"aurora/aurora_h.png"
+		]
+	},
+	{
+		"id": "262",
+		"name": "Avrora",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Northern Parliament",
+		"images": [
+			"avrora/avrora.png",
+			"avrora/avrora_2.png",
+			"avrora/avrora_3.png"
+		]
+	},
+	{
+		"id": "155",
+		"name": "Ayanami",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"ayanami/ayanami.png",
+			"ayanami/ayanami_10.png",
+			"ayanami/ayanami_11.png",
+			"ayanami/ayanami_13.png",
+			"ayanami/ayanami_14.png",
+			"ayanami/ayanami_15.png",
+			"ayanami/ayanami_16.png",
+			"ayanami/ayanami_2.png",
+			"ayanami/ayanami_4.png",
+			"ayanami/ayanami_5.png",
+			"ayanami/ayanami_6.png",
+			"ayanami/ayanami_7.png",
+			"ayanami/ayanami_8.png",
+			"ayanami/ayanami_9.png",
+			"ayanami/ayanami_g.png",
+			"ayanami/ayanami_h.png"
+		]
+	},
+	{
+		"id": "406",
+		"name": "Aylwin",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["aylwin/aylwin.png", "aylwin/aylwin_2.png"]
+	},
+	{
+		"id": "P010",
+		"name": "Azuma",
+		"hull": "CA",
+		"rarity": "Ultra Rare",
+		"faction": "Sakura Empire",
+		"images": ["azuma/azuma.png", "azuma/azuma_2.png", "azuma/azuma_h.png"]
+	},
+	{
+		"id": "407",
+		"name": "Bache",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["bache/bache.png", "bache/bache_2.png", "bache/bache_3.png"]
+	},
+	{
+		"id": "263",
+		"name": "Bailey",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"bailey/bailey.png",
+			"bailey/bailey_2.png",
+			"bailey/bailey_3.png",
+			"bailey/bailey_g.png"
+		]
+	},
+	{
+		"id": "50",
+		"name": "Baltimore",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"baltimore/baltimore.png",
+			"baltimore/baltimore_2.png",
+			"baltimore/baltimore_3.png",
+			"baltimore/baltimore_4.png",
+			"baltimore/baltimore_5.png",
+			"baltimore/baltimore_6.png",
+			"baltimore/baltimore_idol.png"
+		]
+	},
+	{
+		"id": "403",
+		"name": "Bataan",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["bataan/bataan.png", "bataan/bataan_2.png"]
+	},
+	{
+		"id": "86",
+		"name": "Beagle",
+		"hull": "DD",
+		"rarity": "Common",
+		"faction": "Royal Navy",
+		"images": ["beagle/beagle.png"]
+	},
+	{
+		"id": "115",
+		"name": "Belfast",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"belfast/belfast.png",
+			"belfast/belfast_2.png",
+			"belfast/belfast_3.png",
+			"belfast/belfast_4.png",
+			"belfast/belfast_5.png",
+			"belfast/belfast_7.png",
+			"belfast/belfast_8.png",
+			"belfast/belfast_h.png",
+			"belfast/belfast_younv.png"
+		]
+	},
+	{
+		"id": "551",
+		"name": "Bellona",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["bellona/bellona.png", "bellona/bellona_2.png"]
+	},
+	{
+		"id": "18",
+		"name": "Benson",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["benson/benson.png", "benson/benson_2.png"]
+	},
+	{
+		"id": "428",
+		"name": "Biloxi",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"biloxi/biloxi.png",
+			"biloxi/biloxi_2.png",
+			"biloxi/biloxi_4.png",
+			"biloxi/biloxi_5.png",
+			"biloxi/biloxi_6.png"
+		]
+	},
+	{
+		"id": "405",
+		"name": "Birmingham",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"birmingham/birmingham.png",
+			"birmingham/birmingham_2.png",
+			"birmingham/birmingham_3.png",
+			"birmingham/birmingham_4.png"
+		]
+	},
+	{
+		"id": "250",
+		"name": "Bismarck",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"bismarck/bismarck.png",
+			"bismarck/bismarck_2.png",
+			"bismarck/bismarck_3.png"
+		]
+	},
+	{
+		"id": "593",
+		"name": "Bismarck Zwei",
+		"hull": "BB",
+		"rarity": "Ultra Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"bismarck_zwei/bismarck_zwei.png",
+			"bismarck_zwei/bismarck_zwei_2.png"
+		]
+	},
+	{
+		"id": "C006",
+		"name": "Black Heart",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"black_heart/black_heart_1.png",
+			"black_heart/black_heart_2.png"
+		]
+	},
+	{
+		"id": "408",
+		"name": "Black Prince",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"black_prince/black_prince.png",
+			"black_prince/black_prince_2.png",
+			"black_prince/black_prince_3.png",
+			"black_prince/black_prince_4.png",
+			"black_prince/black_prince_5.png"
+		]
+	},
+	{
+		"id": "C003",
+		"name": "Blanc",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": ["blanc/blanc.png"]
+	},
+	{
+		"id": "446",
+		"name": "Bluegill",
+		"hull": "SS",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["bluegill/bluegill.png", "bluegill/bluegill_2.png"]
+	},
+	{
+		"id": "243",
+		"name": "Blücher",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"blücher/blücher.png",
+			"blücher/blücher_2.png",
+			"blücher/blücher_3.png",
+			"blücher/blücher_hx.png"
+		]
+	},
+	{
+		"id": "71",
+		"name": "Bogue",
+		"hull": "CV",
+		"rarity": "Common",
+		"faction": "Eagle Union",
+		"images": ["bogue/bogue.png", "bogue/bogue_g.png"]
+	},
+	{
+		"id": "514",
+		"name": "Boise",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"boise/boise.png",
+			"boise/boise_2.png",
+			"boise/boise_3.png",
+			"boise/boise_4.png",
+			"boise/boise_5.png",
+			"boise/boise_idol.png"
+		]
+	},
+	{
+		"id": "560",
+		"name": "Bolzano",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Sardegna Empire",
+		"images": [
+			"bolzano/bolzano.png",
+			"bolzano/bolzano_2.png",
+			"bolzano/bolzano_3.png"
+		]
+	},
+	{
+		"id": "443",
+		"name": "Bremerton",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"bremerton/bremerton.png",
+			"bremerton/bremerton_2.png",
+			"bremerton/bremerton_3.png",
+			"bremerton/bremerton_4.png",
+			"bremerton/bremerton_5.png",
+			"bremerton/bremerton_h.png"
+		]
+	},
+	{
+		"id": "P027",
+		"name": "Brest",
+		"hull": "CA",
+		"rarity": "Ultra Rare",
+		"faction": "Iris Libre",
+		"images": ["brest/brest.png", "brest/brest_2.png"]
+	},
+	{
+		"id": "533",
+		"name": "Bristol",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": ["bristol/bristol.png", "bristol/bristol_2.png"]
+	},
+	{
+		"id": "31",
+		"name": "Brooklyn",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["brooklyn/brooklyn.png"]
+	},
+	{
+		"id": "566",
+		"name": "Brunhilde",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": ["brunhilde/brunhilde.png", "brunhilde/brunhilde_2.png"]
+	},
+	{
+		"id": "87",
+		"name": "Bulldog",
+		"hull": "DD",
+		"rarity": "Common",
+		"faction": "Royal Navy",
+		"images": ["bulldog/bulldog.png"]
+	},
+	{
+		"id": "380",
+		"name": "Bunker Hill",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": ["bunker_hill/bunker_hill.png", "bunker_hill/bunker_hill_2.png"]
+	},
+	{
+		"id": "355",
+		"name": "Bush",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["bush/bush.png", "bush/bush_2.png"]
+	},
+	{
+		"id": "458",
+		"name": "Béarn",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Iris Libre",
+		"images": [
+			"béarn/béarn.png",
+			"béarn/béarn_2.png",
+			"béarn/béarn_alter.png"
+		]
+	},
+	{
+		"id": "59",
+		"name": "California",
+		"hull": "BB",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["california/california.png"]
+	},
+	{
+		"id": "415",
+		"name": "Carabiniere",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sardegna Empire",
+		"images": ["carabiniere/carabiniere.png", "carabiniere/carabiniere_2.png"]
+	},
+	{
+		"id": "447",
+		"name": "Casablanca",
+		"hull": "CV",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["casablanca/casablanca.png", "casablanca/casablanca_2.png"]
+	},
+	{
+		"id": "5",
+		"name": "Cassin",
+		"hull": "DD",
+		"rarity": "Common",
+		"faction": "Eagle Union",
+		"images": [
+			"cassin/cassin.png",
+			"cassin/cassin_2.png",
+			"cassin/cassin_g.png"
+		]
+	},
+	{
+		"id": "402",
+		"name": "Cavalla",
+		"hull": "SS",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"cavalla/cavalla.png",
+			"cavalla/cavalla_2.png",
+			"cavalla/cavalla_3.png"
+		]
+	},
+	{
+		"id": "356",
+		"name": "Centaur",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"centaur/centaur.png",
+			"centaur/centaur_2.png",
+			"centaur/centaur_3.png"
+		]
+	},
+	{
+		"id": "P017",
+		"name": "Champagne",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Iris Libre",
+		"images": [
+			"champagne/champagne.png",
+			"champagne/champagne_2.png",
+			"champagne/champagne_h.png"
+		]
+	},
+	{
+		"id": "255",
+		"name": "Chang Chun",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Dragon Empery",
+		"images": [
+			"chang_chun/chang_chun.png",
+			"chang_chun/chang_chun_2.png",
+			"chang_chun/chang_chun_3.png",
+			"chang_chun/chang_chun_g.png"
+		]
+	},
+	{
+		"id": "494",
+		"name": "Chao Ho",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Dragon Empery",
+		"images": [
+			"chao_ho/chao_ho.png",
+			"chao_ho/chao_ho_2.png",
+			"chao_ho/chao_ho_3.png"
+		]
+	},
+	{
+		"id": "436",
+		"name": "Chapayev",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Northern Parliament",
+		"images": [
+			"chapayev/chapayev.png",
+			"chapayev/chapayev_2.png",
+			"chapayev/chapayev_3.png",
+			"chapayev/chapayev_4.png",
+			"chapayev/chapayev_5.png"
+		]
+	},
+	{
+		"id": "13",
+		"name": "Charles Ausburne",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"charles_ausburne/charles_ausburne.png",
+			"charles_ausburne/charles_ausburne_g.png"
+		]
+	},
+	{
+		"id": "530",
+		"name": "Charybdis",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"charybdis/charybdis.png",
+			"charybdis/charybdis_2.png",
+			"charybdis/charybdis_3.png",
+			"charybdis/charybdis_4.png"
+		]
+	},
+	{
+		"id": "376",
+		"name": "Chaser",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"chaser/chaser.png",
+			"chaser/chaser_2.png",
+			"chaser/chaser_3.png"
+		]
+	},
+	{
+		"id": "534",
+		"name": "Chen Hai",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Dragon Empery",
+		"images": [
+			"chen_hai/chen_hai.png",
+			"chen_hai/chen_hai_2.png",
+			"chen_hai/chen_hai_3.png",
+			"chen_hai/chen_hai_g.png",
+			"chen_hai/chen_hai_4.png"
+		]
+	},
+	{
+		"id": "P013",
+		"name": "Cheshire",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"cheshire/cheshire.png",
+			"cheshire/cheshire_2.png",
+			"cheshire/cheshire_3.png",
+			"cheshire/cheshire_4.png",
+			"cheshire/cheshire_younv.png",
+			"cheshire/cheshire_5.png"
+		]
+	},
+	{
+		"id": "622",
+		"name": "Chi An",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Dragon Empery",
+		"images": ["chi_an/chi_an.png", "chi_an/chi_an_2.png"]
+	},
+	{
+		"id": "42",
+		"name": "Chicago",
+		"hull": "CA",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["chicago/chicago.png"]
+	},
+	{
+		"id": "195",
+		"name": "Chikuma",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": ["chikuma/chikuma.png"]
+	},
+	{
+		"id": "470",
+		"name": "Chitose",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"chitose/chitose.png",
+			"chitose/chitose_2.png",
+			"chitose/chitose_3.png"
+		]
+	},
+	{
+		"id": "471",
+		"name": "Chiyoda",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["chiyoda/chiyoda.png", "chiyoda/chiyoda_2.png"]
+	},
+	{
+		"id": "P026",
+		"name": "Chkalov",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Northern Parliament",
+		"images": ["chkalov/chkalov.png", "chkalov/chkalov_2.png"]
+	},
+	{
+		"id": "203",
+		"name": "Choukai",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": ["choukai/choukai.png", "choukai/choukai_2.png"]
+	},
+	{
+		"id": "604",
+		"name": "Clemenceau",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Vichya Dominion",
+		"images": ["clemenceau/clemenceau.png", "clemenceau/clemenceau_2.png"]
+	},
+	{
+		"id": "37",
+		"name": "Cleveland",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"cleveland/cleveland.png",
+			"cleveland/cleveland_2.png",
+			"cleveland/cleveland_3.png",
+			"cleveland/cleveland_4.png",
+			"cleveland/cleveland_5.png",
+			"cleveland/cleveland_6.png",
+			"cleveland/cleveland_7.png",
+			"cleveland/cleveland_8.png",
+			"cleveland/cleveland_h.png",
+			"cleveland/cleveland_idol.png",
+			"cleveland/cleveland_younv.png"
+		]
+	},
+	{
+		"id": "60",
+		"name": "Colorado",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"colorado/colorado.png",
+			"colorado/colorado_2.png",
+			"colorado/colorado_3.png",
+			"colorado/colorado_g.png"
+		]
+	},
+	{
+		"id": "38",
+		"name": "Columbia",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"columbia/columbia.png",
+			"columbia/columbia_2.png",
+			"columbia/columbia_3.png"
+		]
+	},
+	{
+		"id": "88",
+		"name": "Comet",
+		"hull": "DD",
+		"rarity": "Common",
+		"faction": "Royal Navy",
+		"images": ["comet/comet.png", "comet/comet_g.png"]
+	},
+	{
+		"id": "366",
+		"name": "Concord",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"concord/concord.png",
+			"concord/concord_2.png",
+			"concord/concord_3.png"
+		]
+	},
+	{
+		"id": "617",
+		"name": "Constellation",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"constellation/constellation.png",
+			"constellation/constellation_2.png"
+		]
+	},
+	{
+		"id": "411",
+		"name": "Conte di Cavour",
+		"hull": "BB",
+		"rarity": "Rare",
+		"faction": "Sardegna Empire",
+		"images": [
+			"conte_di_cavour/conte_di_cavour.png",
+			"conte_di_cavour/conte_di_cavour_2.png"
+		]
+	},
+	{
+		"id": "444",
+		"name": "Cooper",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"cooper/cooper.png",
+			"cooper/cooper_2.png",
+			"cooper/cooper_3.png"
+		]
+	},
+	{
+		"id": "8",
+		"name": "Craven",
+		"hull": "DD",
+		"rarity": "Common",
+		"faction": "Eagle Union",
+		"images": ["craven/craven.png", "craven/craven_2.png"]
+	},
+	{
+		"id": "89",
+		"name": "Crescent",
+		"hull": "DD",
+		"rarity": "Common",
+		"faction": "Royal Navy",
+		"images": [
+			"crescent/crescent.png",
+			"crescent/crescent_g.png",
+			"crescent/crescent_jp.png"
+		]
+	},
+	{
+		"id": "372",
+		"name": "Curacoa",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"curacoa/curacoa.png",
+			"curacoa/curacoa_2.png",
+			"curacoa/curacoa_g.png"
+		]
+	},
+	{
+		"id": "373",
+		"name": "Curlew",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"curlew/curlew.png",
+			"curlew/curlew_2.png",
+			"curlew/curlew_g.png"
+		]
+	},
+	{
+		"id": "90",
+		"name": "Cygnet",
+		"hull": "DD",
+		"rarity": "Common",
+		"faction": "Royal Navy",
+		"images": [
+			"cygnet/cygnet.png",
+			"cygnet/cygnet_2.png",
+			"cygnet/cygnet_3.png",
+			"cygnet/cygnet_4.png",
+			"cygnet/cygnet_5.png",
+			"cygnet/cygnet_6.png",
+			"cygnet/cygnet_g.png"
+		]
+	},
+	{
+		"id": "342",
+		"name": "Dace",
+		"hull": "SS",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["dace/dace.png"]
+	},
+	{
+		"id": "330",
+		"name": "Denver",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["denver/denver.png"]
+	},
+	{
+		"id": "245",
+		"name": "Deutschland",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": [
+			"deutschland/deutschland.png",
+			"deutschland/deutschland_2.png",
+			"deutschland/deutschland_3.png",
+			"deutschland/deutschland_4.png",
+			"deutschland/deutschland_5.png"
+		]
+	},
+	{
+		"id": "632",
+		"name": "Devonshire",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["devonshire/devonshire.png", "devonshire/devonshire_2.png"]
+	},
+	{
+		"id": "4",
+		"name": "Dewey",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["dewey/dewey.png", "dewey/dewey_2.png", "dewey/dewey_3.png"]
+	},
+	{
+		"id": "107",
+		"name": "Dido",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": ["dido/dido.png", "dido/dido_2.png", "dido/dido_idol.png"]
+	},
+	{
+		"id": "124",
+		"name": "Dorsetshire",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["dorsetshire/dorsetshire.png"]
+	},
+	{
+		"id": "6",
+		"name": "Downes",
+		"hull": "DD",
+		"rarity": "Common",
+		"faction": "Eagle Union",
+		"images": [
+			"downes/downes.png",
+			"downes/downes_2.png",
+			"downes/downes_g.png"
+		]
+	},
+	{
+		"id": "P014",
+		"name": "Drake",
+		"hull": "CA",
+		"rarity": "Ultra Rare",
+		"faction": "Royal Navy",
+		"images": ["drake/drake.png", "drake/drake_2.png"]
+	},
+	{
+		"id": "501",
+		"name": "Duca degli Abruzzi",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Sardegna Empire",
+		"images": [
+			"duca_degli_abruzzi/duca_degli_abruzzi.png",
+			"duca_degli_abruzzi/duca_degli_abruzzi_2.png"
+		]
+	},
+	{
+		"id": "136",
+		"name": "Duke Of York",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"duke_of_york/duke_of_york.png",
+			"duke_of_york/duke_of_york_2.png",
+			"duke_of_york/duke_of_york_3.png"
+		]
+	},
+	{
+		"id": "352",
+		"name": "Dunkerque",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Vichya Dominion",
+		"images": [
+			"dunkerque/dunkerque.png",
+			"dunkerque/dunkerque_2.png",
+			"dunkerque/dunkerque_3.png"
+		]
+	},
+	{
+		"id": "143",
+		"name": "Eagle",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["eagle/eagle.png", "eagle/eagle_2.png"]
+	},
+	{
+		"id": "389",
+		"name": "Echo",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": ["echo/echo.png"]
+	},
+	{
+		"id": "114",
+		"name": "Edinburgh",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"edinburgh/edinburgh.png",
+			"edinburgh/edinburgh_2.png",
+			"edinburgh/edinburgh_3.png"
+		]
+	},
+	{
+		"id": "526",
+		"name": "Elbe",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["elbe/elbe.png", "elbe/elbe_2.png", "elbe/elbe_3.png"]
+	},
+	{
+		"id": "548",
+		"name": "Elbing",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": [
+			"elbing/elbing.png",
+			"elbing/elbing_2.png",
+			"elbing/elbing_3.png",
+			"elbing/elbing_4.png"
+		]
+	},
+	{
+		"id": "28",
+		"name": "Eldridge",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"eldridge/eldridge.png",
+			"eldridge/eldridge_2.png",
+			"eldridge/eldridge_3.png",
+			"eldridge/eldridge_4.png",
+			"eldridge/eldridge_5.png",
+			"eldridge/eldridge_7.png",
+			"eldridge/eldridge_h.png"
+		]
+	},
+	{
+		"id": "563",
+		"name": "Emanuele Pessagno",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sardegna Empire",
+		"images": [
+			"emanuele_pessagno/emanuele_pessagno.png",
+			"emanuele_pessagno/emanuele_pessagno_2.png"
+		]
+	},
+	{
+		"id": "545",
+		"name": "Emden",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"emden/emden.png",
+			"emden/emden_2.png",
+			"emden/emden_3.png",
+			"emden/emden_4.png"
+		]
+	},
+	{
+		"id": "77",
+		"name": "Enterprise",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"enterprise/enterprise.png",
+			"enterprise/enterprise_2.png",
+			"enterprise/enterprise_3.png",
+			"enterprise/enterprise_4.png",
+			"enterprise/enterprise_5.png",
+			"enterprise/enterprise_6.png",
+			"enterprise/enterprise_7.png",
+			"enterprise/enterprise_8.png",
+			"enterprise/enterprise_9.png",
+			"enterprise/enterprise_h.png",
+			"enterprise/enterprise_younv.png"
+		]
+	},
+	{
+		"id": "557",
+		"name": "Enterprise",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["enterprise_HMS/enterprise_HMS.png"]
+	},
+	{
+		"id": "149",
+		"name": "Erebus",
+		"hull": "Misc",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"erebus/erebus.png",
+			"erebus/erebus_2.png",
+			"erebus/erebus_3.png",
+			"erebus/erebus_alter.png"
+		]
+	},
+	{
+		"id": "460",
+		"name": "Eskimo",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["eskimo/eskimo.png", "eskimo/eskimo_2.png"]
+	},
+	{
+		"id": "357",
+		"name": "Essex",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"essex/essex.png",
+			"essex/essex_3.png",
+			"essex/essex_4.png",
+			"essex/essex_5.png",
+			"essex/essex_6.png",
+			"essex/essex_7.png",
+			"essex/essex_8.png",
+			"essex/essex_alter.png"
+		]
+	},
+	{
+		"id": "126",
+		"name": "Exeter",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"exeter/exeter.png",
+			"exeter/exeter_2.png",
+			"exeter/exeter_g.png"
+		]
+	},
+	{
+		"id": "625",
+		"name": "Fei Yuen",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Dragon Empery",
+		"images": ["fei_yuen/fei_yuen.png", "fei_yuen/fei_yuen_2.png"]
+	},
+	{
+		"id": "P030",
+		"name": "Felix Schultz",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"felix_schultz/felix_schultz.png",
+			"felix_schultz/felix_schultz_2.png"
+		]
+	},
+	{
+		"id": "327",
+		"name": "Fiji",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": ["fiji/fiji.png", "fiji/fiji_2.png"]
+	},
+	{
+		"id": "P032",
+		"name": "Flandre",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Vichya Dominion",
+		"images": ["flandre/flandre.png", "flandre/flandre_2.png"]
+	},
+	{
+		"id": "620",
+		"name": "Flasher",
+		"hull": "SS",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": ["flasher/flasher.png", "flasher/flasher_2.png"]
+	},
+	{
+		"id": "11",
+		"name": "Fletcher",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["fletcher/fletcher.png"]
+	},
+	{
+		"id": "524",
+		"name": "Foch",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Vichya Dominion",
+		"images": [
+			"foch/foch.png",
+			"foch/foch_2.png",
+			"foch/foch_3.png",
+			"foch/foch_alter.png"
+		]
+	},
+	{
+		"id": "16",
+		"name": "Foote",
+		"hull": "DD",
+		"rarity": "Common",
+		"faction": "Eagle Union",
+		"images": ["foote/foote.png"]
+	},
+	{
+		"id": "348",
+		"name": "Forbin",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Iris Libre",
+		"images": [
+			"forbin/forbin.png",
+			"forbin/forbin_2.png",
+			"forbin/forbin_3.png",
+			"forbin/forbin_4.png",
+			"forbin/forbin_g.png",
+			"forbin/forbin_h.png"
+		]
+	},
+	{
+		"id": "147",
+		"name": "Formidable",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"formidable/formidable.png",
+			"formidable/formidable_2.png",
+			"formidable/formidable_3.png",
+			"formidable/formidable_younv.png",
+			"formidable/formidable_4.png",
+			"formidable/formidable_idol.png"
+		]
+	},
+	{
+		"id": "92",
+		"name": "Fortune",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"fortune/fortune.png",
+			"fortune/fortune_2.png",
+			"fortune/fortune_alter.png",
+			"fortune/fortune_g.png"
+		]
+	},
+	{
+		"id": "91",
+		"name": "Foxhound",
+		"hull": "DD",
+		"rarity": "Common",
+		"faction": "Royal Navy",
+		"images": ["foxhound/foxhound.png", "foxhound/foxhound_g.png"]
+	},
+	{
+		"id": "640",
+		"name": "Friedrich Carl",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"friedrich_carl/friedrich_carl.png",
+			"friedrich_carl/friedrich_carl_2.png"
+		]
+	},
+	{
+		"id": "P011",
+		"name": "Friedrich der Große",
+		"hull": "BB",
+		"rarity": "Ultra Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"friedrich_der_große/friedrich_der_große.png",
+			"friedrich_der_große/friedrich_der_große_2.png",
+			"friedrich_der_große/friedrich_der_große_h.png",
+			"friedrich_der_große/friedrich_der_große_younv.png"
+		]
+	},
+	{
+		"id": "254",
+		"name": "Fu shun",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Dragon Empery",
+		"images": ["fu_shun/fu_shun.png", "fu_shun/fu_shun_2.png"]
+	},
+	{
+		"id": "151",
+		"name": "Fubuki",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"fubuki/fubuki.png",
+			"fubuki/fubuki_2.png",
+			"fubuki/fubuki_3.png",
+			"fubuki/fubuki_4.png",
+			"fubuki/fubuki_5.png",
+			"fubuki/fubuki_6.png"
+		]
+	},
+	{
+		"id": "C105",
+		"name": "Fubuki",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": ["fubuki_SK/fubuki_SK.png", "fubuki_SK/fubuki_SK_2.png"]
+	},
+	{
+		"id": "C036",
+		"name": "Fumiruiru",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": ["fumiruiru/fumiruiru.png", "fumiruiru/fumiruiru_2.png"]
+	},
+	{
+		"id": "277",
+		"name": "Fumizuki",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": ["fumizuki/fumizuki.png", "fumizuki/fumizuki_2.png"]
+	},
+	{
+		"id": "190",
+		"name": "Furutaka",
+		"hull": "CA",
+		"rarity": "Common",
+		"faction": "Sakura Empire",
+		"images": ["furutaka/furutaka.png", "furutaka/furutaka_g.png"]
+	},
+	{
+		"id": "208",
+		"name": "Fusou",
+		"hull": "BB",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"fusou/fusou.png",
+			"fusou/fusou_2.png",
+			"fusou/fusou_3.png",
+			"fusou/fusou_alter.png",
+			"fusou/fusou_g.png"
+		]
+	},
+	{
+		"id": "C076",
+		"name": "Futami Ami",
+		"hull": "SS",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": ["futami_ami/futami_ami.png", "futami_ami/futami_ami_2.png"]
+	},
+	{
+		"id": "C077",
+		"name": "Futami Mami",
+		"hull": "SS",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": ["futami_mami/futami_mami.png", "futami_mami/futami_mami_2.png"]
+	},
+	{
+		"id": "117",
+		"name": "Galatea",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": ["galatea/galatea.png"]
+	},
+	{
+		"id": "437",
+		"name": "Gangut",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Northern Parliament",
+		"images": [
+			"gangut/gangut.png",
+			"gangut/gangut_2.png",
+			"gangut/gangut_3.png"
+		]
+	},
+	{
+		"id": "P012",
+		"name": "Gascogne",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Vichya Dominion",
+		"images": [
+			"gascogne/gascogne.png",
+			"gascogne/gascogne_2.png",
+			"gascogne/gascogne_idol.png"
+		]
+	},
+	{
+		"id": "P008",
+		"name": "Georgia",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"georgia/georgia.png",
+			"georgia/georgia_2.png",
+			"georgia/georgia_4.png",
+			"georgia/georgia_6.png"
+		]
+	},
+	{
+		"id": "412",
+		"name": "Giulio Cesare",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Sardegna Empire",
+		"images": [
+			"giulio_cesare/giulio_cesare.png",
+			"giulio_cesare/giulio_cesare_2.png",
+			"giulio_cesare/giulio_cesare_3.png"
+		]
+	},
+	{
+		"id": "559",
+		"name": "Giuseppe Garibaldi",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Sardegna Empire",
+		"images": [
+			"giuseppe_garibaldi/giuseppe_garibaldi.png",
+			"giuseppe_garibaldi/giuseppe_garibaldi_2.png"
+		]
+	},
+	{
+		"id": "423",
+		"name": "Glasgow",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": ["glasgow/glasgow.png", "glasgow/glasgow_2.png"]
+	},
+	{
+		"id": "148",
+		"name": "Glorious",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"glorious/glorious.png",
+			"glorious/glorious_2.png",
+			"glorious/glorious_3.png"
+		]
+	},
+	{
+		"id": "113",
+		"name": "Gloucester",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["gloucester/gloucester.png", "gloucester/gloucester_2.png"]
+	},
+	{
+		"id": "94",
+		"name": "Glowworm",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["glowworm/glowworm.png", "glowworm/glowworm_2.png"]
+	},
+	{
+		"id": "249",
+		"name": "Gneisenau",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": [
+			"gneisenau/gneisenau.png",
+			"gneisenau/gneisenau_2.png",
+			"gneisenau/gneisenau_alter.png"
+		]
+	},
+	{
+		"id": "610",
+		"name": "Golden Hind",
+		"hull": "Misc",
+		"rarity": "Super Rare",
+		"faction": "Tempesta",
+		"images": ["golden_hind/golden_hind.png", "golden_hind/golden_hind_2.png"]
+	},
+	{
+		"id": "597",
+		"name": "Gorizia",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Sardegna Empire",
+		"images": ["gorizia/gorizia.png", "gorizia/gorizia_2.png"]
+	},
+	{
+		"id": "252",
+		"name": "Graf Zeppelin",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"graf_zeppelin/graf_zeppelin.png",
+			"graf_zeppelin/graf_zeppelin_2.png",
+			"graf_zeppelin/graf_zeppelin_younv.png"
+		]
+	},
+	{
+		"id": "C008",
+		"name": "Green Heart",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"green_heart/green_heart_1.png",
+			"green_heart/green_heart_2.png"
+		]
+	},
+	{
+		"id": "497",
+		"name": "Gremyashchy",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Northern Parliament",
+		"images": ["gremyashchy/gremyashchy.png", "gremyashchy/gremyashchy_2.png"]
+	},
+	{
+		"id": "93",
+		"name": "Grenville",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["grenville/grenville.png"]
+	},
+	{
+		"id": "7",
+		"name": "Gridley",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["gridley/gridley.png", "gridley/gridley_2.png"]
+	},
+	{
+		"id": "499",
+		"name": "Gromky",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Northern Parliament",
+		"images": ["gromky/gromky.png", "gromky/gromky_2.png"]
+	},
+	{
+		"id": "431",
+		"name": "Grozny",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Northern Parliament",
+		"images": [
+			"grozny/grozny.png",
+			"grozny/grozny_2.png",
+			"grozny/grozny_3.png",
+			"grozny/grozny_4.png",
+			"grozny/grozny_5.png",
+			"grozny/grozny_6.png"
+		]
+	},
+	{
+		"id": "616",
+		"name": "Guam",
+		"hull": "CA",
+		"rarity": "Ultra Rare",
+		"faction": "Eagle Union",
+		"images": ["guam/guam.png", "guam/guam_2.png"]
+	},
+	{
+		"id": "603",
+		"name": "Guichen",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Iris Libre",
+		"images": ["guichen/guichen.png", "guichen/guichen_2.png"]
+	},
+	{
+		"id": "199",
+		"name": "Haguro",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"haguro/haguro.png",
+			"haguro/haguro_2.png",
+			"haguro/haguro_3.png"
+		]
+	},
+	{
+		"id": "532",
+		"name": "Hai Chi",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Dragon Empery",
+		"images": ["hai_chi/hai_chi.png", "hai_chi/hai_chi_2.png"]
+	},
+	{
+		"id": "531",
+		"name": "Hai Tien",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Dragon Empery",
+		"images": [
+			"hai_tien/hai_tien.png",
+			"hai_tien/hai_tien_2.png",
+			"hai_tien/hai_tien_3.png",
+			"hai_tien/hai_tien_4.png",
+			"hai_tien/hai_tien_h.png"
+		]
+	},
+	{
+		"id": "P019",
+		"name": "Hakuryuu",
+		"hull": "CV",
+		"rarity": "Ultra Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"hakuryuu/hakuryuu.png",
+			"hakuryuu/hakuryuu_2.png",
+			"hakuryuu/hakuryuu_3.png"
+		]
+	},
+	{
+		"id": "427",
+		"name": "Halsey Powell",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"halsey_powell/halsey_powell.png",
+			"halsey_powell/halsey_powell_3.png"
+		]
+	},
+	{
+		"id": "318",
+		"name": "Hamakaze",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"hamakaze/hamakaze.png",
+			"hamakaze/hamakaze_2.png",
+			"hamakaze/hamakaze_4.png",
+			"hamakaze/hamakaze_g.png"
+		]
+	},
+	{
+		"id": "27",
+		"name": "Hammann",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"hammann/hammann.png",
+			"hammann/hammann_2.png",
+			"hammann/hammann_3.png",
+			"hammann/hammann_4.png",
+			"hammann/hammann_5.png",
+			"hammann/hammann_g.png"
+		]
+	},
+	{
+		"id": "576",
+		"name": "Hammann II",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["hammann_II/hammann_II.png", "hammann_II/hammann_II_2.png"]
+	},
+	{
+		"id": "449",
+		"name": "Hanazuki",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"hanazuki/hanazuki.png",
+			"hanazuki/hanazuki_3.png",
+			"hanazuki/hanazuki_4.png"
+		]
+	},
+	{
+		"id": "P025",
+		"name": "Harbin",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Dragon Empery",
+		"images": [
+			"harbin/harbin.png",
+			"harbin/harbin_2.png",
+			"harbin/harbin_h.png",
+			"harbin/harbin_3.png"
+		]
+	},
+	{
+		"id": "96",
+		"name": "Hardy",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["hardy/hardy.png"]
+	},
+	{
+		"id": "206",
+		"name": "Haruna",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"haruna/haruna.png",
+			"haruna/haruna_2.png",
+			"haruna/haruna_3.png",
+			"haruna/haruna_4.png"
+		]
+	},
+	{
+		"id": "296",
+		"name": "Harutsuki",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["harutsuki/harutsuki.png", "harutsuki/harutsuki_2.png"]
+	},
+	{
+		"id": "C085",
+		"name": "Hass",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": ["hass/hass.png", "hass/hass_2.png"]
+	},
+	{
+		"id": "369",
+		"name": "Hatakaze",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": ["hatakaze/hatakaze.png", "hatakaze/hatakaze_alter.png"]
+	},
+	{
+		"id": "171",
+		"name": "Hatsuharu",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"hatsuharu/hatsuharu.png",
+			"hatsuharu/hatsuharu_2.png",
+			"hatsuharu/hatsuharu_3.png",
+			"hatsuharu/hatsuharu_4.png",
+			"hatsuharu/hatsuharu_g.png"
+		]
+	},
+	{
+		"id": "174",
+		"name": "Hatsushimo",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"hatsushimo/hatsushimo.png",
+			"hatsushimo/hatsushimo_2.png",
+			"hatsushimo/hatsushimo_g.png"
+		]
+	},
+	{
+		"id": "607",
+		"name": "Hatsuzuki",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": ["hatsuzuki/hatsuzuki.png", "hatsuzuki/hatsuzuki_2.png"]
+	},
+	{
+		"id": "365",
+		"name": "Hazelwood",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["hazelwood/hazelwood.png"]
+	},
+	{
+		"id": "33",
+		"name": "Helena",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"helena/helena.png",
+			"helena/helena_2.png",
+			"helena/helena_3.png",
+			"helena/helena_4.png",
+			"helena/helena_alter.png",
+			"helena/helena_g.png",
+			"helena/helena_h.png",
+			"helena/helena_younv.png"
+		]
+	},
+	{
+		"id": "140",
+		"name": "Hermes",
+		"hull": "CV",
+		"rarity": "Common",
+		"faction": "Royal Navy",
+		"images": ["hermes/hermes.png", "hermes/hermes_g.png"]
+	},
+	{
+		"id": "463",
+		"name": "Hermione",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"hermione/hermione.png",
+			"hermione/hermione_2.png",
+			"hermione/hermione_3.png",
+			"hermione/hermione_4.png",
+			"hermione/hermione_5.png",
+			"hermione/hermione_6.png",
+			"hermione/hermione_h.png"
+		]
+	},
+	{
+		"id": "585",
+		"name": "Hero",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["hero/hero.png", "hero/hero_2.png"]
+	},
+	{
+		"id": "160",
+		"name": "Hibiki",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["hibiki/hibiki.png", "hibiki/hibiki_2.png"]
+	},
+	{
+		"id": "205",
+		"name": "Hiei",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"hiei/hiei.png",
+			"hiei/hiei_2.png",
+			"hiei/hiei_4.png",
+			"hiei/hiei_5.png",
+			"hiei/hiei_younv.png"
+		]
+	},
+	{
+		"id": "P031",
+		"name": "Hindenburg",
+		"hull": "CA",
+		"rarity": "Ultra Rare",
+		"faction": "Iron Blood",
+		"images": ["hindenburg/hindenburg.png", "hindenburg/hindenburg_2.png"]
+	},
+	{
+		"id": "227",
+		"name": "Hiryuu",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"hiryuu/hiryuu.png",
+			"hiryuu/hiryuu_2.png",
+			"hiryuu/hiryuu_alter.png",
+			"hiryuu/hiryuu_g.png"
+		]
+	},
+	{
+		"id": "218",
+		"name": "Hiyou",
+		"hull": "CV",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": ["hiyou/hiyou.png", "hiyou/hiyou_alter.png"]
+	},
+	{
+		"id": "362",
+		"name": "Hobby",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["hobby/hobby.png", "hobby/hobby_2.png"]
+	},
+	{
+		"id": "C055",
+		"name": "Nakiri Ayame",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": [
+			"hololive_Ayame/hololive_Ayame.png",
+			"hololive_Ayame/hololive_Ayame_2.png"
+		]
+	},
+	{
+		"id": "C051",
+		"name": "Shirakami Fubuki",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"hololive_Fubuki/hololive_Fubuki.png",
+			"hololive_Fubuki/hololive_Fubuki_2.png"
+		]
+	},
+	{
+		"id": "C057",
+		"name": "Ookami Mio",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": [
+			"hololive_Mio/hololive_Mio.png",
+			"hololive_Mio/hololive_Mio_2.png"
+		]
+	},
+	{
+		"id": "C053",
+		"name": "Minato Aqua",
+		"hull": "SS",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"hololive_aqua/hololive_aqua.png",
+			"hololive_aqua/hololive_aqua_2.png"
+		]
+	},
+	{
+		"id": "C054",
+		"name": "Natsuiro Matsuri",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": [
+			"hololive_matsuri/hololive_matsuri.png",
+			"hololive_matsuri/hololive_matsuri_2.png"
+		]
+	},
+	{
+		"id": "C056",
+		"name": "Murasaki Shion",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": [
+			"hololive_shion/hololive_shion.png",
+			"hololive_shion/hololive_shion_2.png"
+		]
+	},
+	{
+		"id": "C052",
+		"name": "Tokino Sora",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"hololive_sora/hololive_sora.png",
+			"hololive_sora/hololive_sora_2.png"
+		]
+	},
+	{
+		"id": "C103",
+		"name": "Homura",
+		"hull": "SS",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": ["homura_SK/homura_SK.png", "homura_SK/homura_SK_2.png"]
+	},
+	{
+		"id": "C062",
+		"name": "Honoka",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"honoka_DOA/honoka_DOA_2_doa.png",
+			"honoka_DOA/honoka_DOA_doa.png"
+		]
+	},
+	{
+		"id": "304",
+		"name": "Honolulu",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"honolulu/honolulu.png",
+			"honolulu/honolulu_2.png",
+			"honolulu/honolulu_3.png",
+			"honolulu/honolulu_4.png",
+			"honolulu/honolulu_5.png"
+		]
+	},
+	{
+		"id": "129",
+		"name": "Hood",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"hood/hood.png",
+			"hood/hood_2.png",
+			"hood/hood_3.png",
+			"hood/hood_4.png",
+			"hood/hood_5.png",
+			"hood/hood_h.png"
+		]
+	},
+	{
+		"id": "78",
+		"name": "Hornet",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"hornet/hornet.png",
+			"hornet/hornet_2.png",
+			"hornet/hornet_3.png",
+			"hornet/hornet_4.png"
+		]
+	},
+	{
+		"id": "572",
+		"name": "Hornet II",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": ["hornet_II/hornet_II.png", "hornet_II/hornet_II_2.png"]
+	},
+	{
+		"id": "220",
+		"name": "Houshou",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["houshou/houshou.png", "houshou/houshou_2.png"]
+	},
+	{
+		"id": "43",
+		"name": "Houston",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["houston/houston.png"]
+	},
+	{
+		"id": "609",
+		"name": "Houston II",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": ["houston_II/houston_II.png", "houston_II/houston_II_2.png"]
+	},
+	{
+		"id": "461",
+		"name": "Howe",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"howe/howe.png",
+			"howe/howe_2.png",
+			"howe/howe_4.png",
+			"howe/howe_5.png"
+		]
+	},
+	{
+		"id": "624",
+		"name": "Hu Pen",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Dragon Empery",
+		"images": ["hu_pen/hu_pen.png", "hu_pen/hu_pen_2.png"]
+	},
+	{
+		"id": "621",
+		"name": "Huan Ch'ang",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Dragon Empery",
+		"images": ["huan_ch'ang/huan_ch'ang.png", "huan_ch'ang/huan_ch'ang_2.png"]
+	},
+	{
+		"id": "100",
+		"name": "Hunter",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": ["hunter/hunter.png", "hunter/hunter_alter.png"]
+	},
+	{
+		"id": "579",
+		"name": "Hwah Jah",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Dragon Empery",
+		"images": ["hwah_jah/hwah_jah.png", "hwah_jah/hwah_jah_2.png"]
+	},
+	{
+		"id": "211",
+		"name": "Hyuuga",
+		"hull": "BB",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": ["hyuuga/hyuuga.png", "hyuuga/hyuuga_g.png"]
+	},
+	{
+		"id": "397",
+		"name": "I56",
+		"hull": "SS",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["i-56/i-56.png", "i-56/i56_2.png"]
+	},
+	{
+		"id": "381",
+		"name": "I13",
+		"hull": "SS",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": ["i13/i13.png"]
+	},
+	{
+		"id": "398",
+		"name": "I168",
+		"hull": "SS",
+		"rarity": "Super Rare",
+		"faction": "IJIN",
+		"images": ["i168/i168.png", "i168/i168_2.png"]
+	},
+	{
+		"id": "338",
+		"name": "I19",
+		"hull": "SS",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"i19/i19.png",
+			"i19/i19_2.png",
+			"i19/i19_3.png",
+			"i19/i19_4.png"
+		]
+	},
+	{
+		"id": "396",
+		"name": "I25",
+		"hull": "SS",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["i25/i25.png", "i25/i25_2.png", "i25/i25_3.png"]
+	},
+	{
+		"id": "339",
+		"name": "I26",
+		"hull": "SS",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["i26/i26.png", "i26/i26_2.png", "i26/i26_3.png"]
+	},
+	{
+		"id": "340",
+		"name": "I58",
+		"hull": "SS",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["i58/i58.png"]
+	},
+	{
+		"id": "P003",
+		"name": "Ibuki",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"ibuki/ibuki.png",
+			"ibuki/ibuki_2.png",
+			"ibuki/ibuki_3.png",
+			"ibuki/ibuki_4.png",
+			"ibuki/ibuki_5.png"
+		]
+	},
+	{
+		"id": "465",
+		"name": "Icarus",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"icarus/icarus.png",
+			"icarus/icarus_2.png",
+			"icarus/icarus_3.png",
+			"icarus/icarus_4.png"
+		]
+	},
+	{
+		"id": "C102",
+		"name": "Ikaruga",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": ["ikaruga/ikaruga.png", "ikaruga/ikaruga_2.png"]
+	},
+	{
+		"id": "161",
+		"name": "Ikazuchi",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"ikazuchi/ikazuchi.png",
+			"ikazuchi/ikazuchi_2.png",
+			"ikazuchi/ikazuchi_3.png",
+			"ikazuchi/ikazuchi_4.png",
+			"ikazuchi/ikazuchi_5.png"
+		]
+	},
+	{
+		"id": "145",
+		"name": "Illustrious",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"illustrious/illustrious.png",
+			"illustrious/illustrious_2.png",
+			"illustrious/illustrious_3.png",
+			"illustrious/illustrious_4.png",
+			"illustrious/illustrious_5.png",
+			"illustrious/illustrious_6.png",
+			"illustrious/illustrious_h.png",
+			"illustrious/illustrious_idol.png",
+			"illustrious/illustrious_younv.png"
+		]
+	},
+	{
+		"id": "540",
+		"name": "Impero",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Sardegna Empire",
+		"images": ["impero/impero.png", "impero/impero_2.png"]
+	},
+	{
+		"id": "581",
+		"name": "Implacable",
+		"hull": "CV",
+		"rarity": "Ultra Rare",
+		"faction": "Royal Navy",
+		"images": ["implacable/implacable.png", "implacable/implacable_2.png"]
+	},
+	{
+		"id": "162",
+		"name": "Inazuma",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"inazuma/inazuma.png",
+			"inazuma/inazuma_2.png",
+			"inazuma/inazuma_3.png",
+			"inazuma/inazuma_4.png",
+			"inazuma/inazuma_5.png"
+		]
+	},
+	{
+		"id": "377",
+		"name": "Independence",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"independence/independence.png",
+			"independence/independence_2.png",
+			"independence/independence_3.png",
+			"independence/independence_5.png",
+			"independence/independence_6.png",
+			"independence/independence_g.png"
+		]
+	},
+	{
+		"id": "45",
+		"name": "Indianapolis",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"indianapolis/indianapolis.png",
+			"indianapolis/indianapolis_2.png",
+			"indianapolis/indianapolis_3.png"
+		]
+	},
+	{
+		"id": "553",
+		"name": "Indomitable",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": ["indomitable/indomitable.png", "indomitable/indomitable_2.png"]
+	},
+	{
+		"id": "518",
+		"name": "Ingraham",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": ["ingraham/ingraham.png", "ingraham/ingraham_2.png"]
+	},
+	{
+		"id": "442",
+		"name": "Intrepid",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": ["intrepid/intrepid.png", "intrepid/intrepid_2.png"]
+	},
+	{
+		"id": "210",
+		"name": "Ise",
+		"hull": "BB",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": ["ise/ise.png", "ise/ise_g.png"]
+	},
+	{
+		"id": "317",
+		"name": "Isokaze",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "IJN'",
+		"images": [
+			"isokaze/isokaze.png",
+			"isokaze/isokaze_2.png",
+			"isokaze/isokaze_3.png"
+		]
+	},
+	{
+		"id": "183",
+		"name": "Isuzu",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"isuzu/isuzu.png",
+			"isuzu/isuzu_2.png",
+			"isuzu/isuzu_3.png",
+			"isuzu/isuzu_5.png",
+			"isuzu/isuzu_6.png",
+			"isuzu/isuzu_g.png"
+		]
+	},
+	{
+		"id": "P004",
+		"name": "Izumo",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": ["izumo/izumo.png", "izumo/izumo_2.png"]
+	},
+	{
+		"id": "591",
+		"name": "Jade",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["jade/jade.png", "jade/jade_2.png", "jade/jade_3.png"]
+	},
+	{
+		"id": "328",
+		"name": "Jamaica",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"jamaica/jamaica.png",
+			"jamaica/jamaica_2.png",
+			"jamaica/jamaica_3.png"
+		]
+	},
+	{
+		"id": "569",
+		"name": "Janus",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"janus/janus.png",
+			"janus/janus_3.png",
+			"janus/janus_4.png",
+			"janus/janus_5.png"
+		]
+	},
+	{
+		"id": "101",
+		"name": "Javelin",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"javelin/javelin.png",
+			"javelin/javelin_2.png",
+			"javelin/javelin_3.png",
+			"javelin/javelin_4.png",
+			"javelin/javelin_5.png",
+			"javelin/javelin_6.png",
+			"javelin/javelin_7.png",
+			"javelin/javelin_8.png",
+			"javelin/javelin_9.png",
+			"javelin/javelin_g.png",
+			"javelin/javelin_h.png"
+		]
+	},
+	{
+		"id": "353",
+		"name": "Jean Bart",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Vichya Dominion",
+		"images": [
+			"jean_bart/jean_bart.png",
+			"jean_bart/jean_bart_2.png",
+			"jean_bart/jean_bart_3.png",
+			"jean_bart/jean_bart_4.png"
+		]
+	},
+	{
+		"id": "454",
+		"name": "Jeanne D'Arc",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Iris Libre",
+		"images": [
+			"jeanne_d'Arc/jeanne_d'Arc.png",
+			"jeanne_d'Arc/jeanne_d'Arc_2.png"
+		]
+	},
+	{
+		"id": "300",
+		"name": "Jenkins",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["jenkins/jenkins.png", "jenkins/jenkins_3.png"]
+	},
+	{
+		"id": "307",
+		"name": "Jersey",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": ["jersey/jersey.png"]
+	},
+	{
+		"id": "550",
+		"name": "Jervis",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": ["jervis/jervis.png", "jervis/jervis_2.png"]
+	},
+	{
+		"id": "309",
+		"name": "Jintsuu",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"jintsuu/jintsuu.png",
+			"jintsuu/jintsuu_2.png",
+			"jintsuu/jintsuu_4.png",
+			"jintsuu/jintsuu_alter.png",
+			"jintsuu/jintsuu_g.png"
+		]
+	},
+	{
+		"id": "555",
+		"name": "Joffre",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Vichya Dominion",
+		"images": [
+			"joffre/joffre.png",
+			"joffre/joffre_2.png",
+			"joffre/joffre_3.png"
+		]
+	},
+	{
+		"id": "35",
+		"name": "Juneau",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"juneau/juneau.png",
+			"juneau/juneau_2.png",
+			"juneau/juneau_g.png"
+		]
+	},
+	{
+		"id": "102",
+		"name": "Juno",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": ["juno/juno.png", "juno/juno_2.png"]
+	},
+	{
+		"id": "219",
+		"name": "Jun'you",
+		"hull": "CV",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": ["junyou/junyou.png", "junyou/junyou_alter.png"]
+	},
+	{
+		"id": "306",
+		"name": "Jupiter",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": ["jupiter/jupiter.png", "jupiter/jupiter_2.png"]
+	},
+	{
+		"id": "225",
+		"name": "Kaga",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"kaga/kaga.png",
+			"kaga/kaga_2.png",
+			"kaga/kaga_3.png",
+			"kaga/kaga_4.png",
+			"kaga/kaga_5.png",
+			"kaga/kaga_6.png",
+			"kaga/kaga_7.png",
+			"kaga/kaga_h.png"
+		]
+	},
+	{
+		"id": "368",
+		"name": "Kaga",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": ["kaga_BB/kaga_BB.png"]
+	},
+	{
+		"id": "167",
+		"name": "Kagerou",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"kagerou/kagerou.png",
+			"kagerou/kagerou_2.png",
+			"kagerou/kagerou_g.png"
+		]
+	},
+	{
+		"id": "191",
+		"name": "Kako",
+		"hull": "CA",
+		"rarity": "Common",
+		"faction": "Sakura Empire",
+		"images": ["kako/kako.png", "kako/kako_g.png"]
+	},
+	{
+		"id": "C096",
+		"name": "Kala Ideas",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": ["kala/kala.png"]
+	},
+	{
+		"id": "363",
+		"name": "Kalk",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["kalk/kalk.png", "kalk/kalk_2.png"]
+	},
+	{
+		"id": "269",
+		"name": "Kamikaze",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": ["kamikaze/kamikaze.png", "kamikaze/kamikaze_g.png"]
+	},
+	{
+		"id": "239",
+		"name": "Karlsruhe",
+		"hull": "CL",
+		"rarity": "Common",
+		"faction": "Iron Blood",
+		"images": ["karlsruhe/karlsruhe.png", "karlsruhe/karlsruhe_g.png"]
+	},
+	{
+		"id": "472",
+		"name": "Kashino",
+		"hull": "Misc",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"kashino/kashino.png",
+			"kashino/kashino_2.png",
+			"kashino/kashino_3.png",
+			"kashino/kashino_4.png"
+		]
+	},
+	{
+		"id": "424",
+		"name": "Kasumi",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"kasumi/kasumi.png",
+			"kasumi/kasumi_2.png",
+			"kasumi/kasumi_3.png",
+			"kasumi/kasumi_g.png"
+		]
+	},
+	{
+		"id": "C063",
+		"name": "Kasumi",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": ["kasumi_DOA/kasumi_DOA.png", "kasumi_DOA/kasumi_DOA_2.png"]
+	},
+	{
+		"id": "520",
+		"name": "Katsuragi",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"katsuragi/katsuragi.png",
+			"katsuragi/katsuragi_2.png",
+			"katsuragi/katsuragi_3.png"
+		]
+	},
+	{
+		"id": "288",
+		"name": "Kawakaze",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"kawakaze/kawakaze.png",
+			"kawakaze/kawakaze_2.png",
+			"kawakaze/kawakaze_h.png"
+		]
+	},
+	{
+		"id": "517",
+		"name": "Kazagumo",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"kazagumo/kazagumo.png",
+			"kazagumo/kazagumo_2.png",
+			"kazagumo/kazagumo_3.png",
+			"kazagumo/kazagumo_4.png"
+		]
+	},
+	{
+		"id": "P028",
+		"name": "Kearsarge",
+		"hull": "BB",
+		"rarity": "Ultra Rare",
+		"faction": "Eagle Union",
+		"images": ["kearsarge/kearsarge.png", "kearsarge/kearsarge_2.png"]
+	},
+	{
+		"id": "121",
+		"name": "Kent",
+		"hull": "CA",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": ["kent/kent.png"]
+	},
+	{
+		"id": "601",
+		"name": "Kersaint",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Vichya Dominion",
+		"images": ["kersaint/kersaint.png", "kersaint/kersaint_2.png"]
+	},
+	{
+		"id": "535",
+		"name": "Kiev",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Northern Parliament",
+		"images": ["kiev/kiev.png", "kiev/kiev_2.png", "kiev/kiev_3.png"]
+	},
+	{
+		"id": "214",
+		"name": "Kii",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": ["kii/kii.png", "kii/kii_2.png"]
+	},
+	{
+		"id": "374",
+		"name": "Kimberly",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"kimberly/kimberly.png",
+			"kimberly/kimberly_3.png",
+			"kimberly/kimberly_alter.png"
+		]
+	},
+	{
+		"id": "134",
+		"name": "King George V",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"king_george_V/king_george_V.png",
+			"king_george_V/king_george_V_2.png"
+		]
+	},
+	{
+		"id": "186",
+		"name": "Kinu",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"kinu/kinu.png",
+			"kinu/kinu_2.png",
+			"kinu/kinu_3.png",
+			"kinu/kinu_g.png"
+		]
+	},
+	{
+		"id": "193",
+		"name": "Kinugasa",
+		"hull": "CA",
+		"rarity": "Common",
+		"faction": "Sakura Empire",
+		"images": ["kinugasa/kinugasa.png"]
+	},
+	{
+		"id": "207",
+		"name": "Kirishima",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"kirishima/kirishima.png",
+			"kirishima/kirishima_2.png",
+			"kirishima/kirishima_3.png",
+			"kirishima/kirishima_4.png",
+			"kirishima/kirishima_5.png"
+		]
+	},
+	{
+		"id": "435",
+		"name": "Kirov",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Northern Parliament",
+		"images": [
+			"kirov/kirov.png",
+			"kirov/kirov_2.png",
+			"kirov/kirov_3.png",
+			"kirov/kirov_4.png",
+			"kirov/kirov_alter.png"
+		]
+	},
+	{
+		"id": "272",
+		"name": "Kisaragi",
+		"hull": "DD",
+		"rarity": "Common",
+		"faction": "Sakura Empire",
+		"images": [
+			"kisaragi/kisaragi.png",
+			"kisaragi/kisaragi_2.png",
+			"kisaragi/kisaragi_g.png"
+		]
+	},
+	{
+		"id": "C072",
+		"name": "Kisaragi Chihaya",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"kisaragi_chihaya/kisaragi_chihaya.png",
+			"kisaragi_chihaya/kisaragi_chihaya_2.png"
+		]
+	},
+	{
+		"id": "P009",
+		"name": "Kitakaze",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"kitakaze/kitakaze.png",
+			"kitakaze/kitakaze_2.png",
+			"kitakaze/kitakaze_4.png"
+		]
+	},
+	{
+		"id": "293",
+		"name": "Kiyonami",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": ["kiyonami/kiyonami.png", "kiyonami/kiyonami_3.png"]
+	},
+	{
+		"id": "C044",
+		"name": "KizunaAI·SuperGamer",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": ["kizuna_ai-BB/kizuna_ai-BB.png"]
+	},
+	{
+		"id": "C042",
+		"name": "KizunaAI·Elegant",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": ["kizuna_ai-CL/kizuna_ai-CL.png"]
+	},
+	{
+		"id": "C043",
+		"name": "KizunaAI·Anniversary",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": ["kizuna_ai-CV/kizuna_ai-CV.png"]
+	},
+	{
+		"id": "C041",
+		"name": "KizunaAI",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": [
+			"kizuna_ai-DD/kizuna_ai-DD.png",
+			"kizuna_ai-DD/kizuna_ai-DD_2.png"
+		]
+	},
+	{
+		"id": "C092",
+		"name": "Klaudia Valentz",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"klaudia_valentz/klaudia_valentz.png",
+			"klaudia_valentz/klaudia_valentz_2.png"
+		]
+	},
+	{
+		"id": "204",
+		"name": "Kongou",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"kongou/kongou.png",
+			"kongou/kongou_2.png",
+			"kongou/kongou_3.png",
+			"kongou/kongou_4.png",
+			"kongou/kongou_5.png",
+			"kongou/kongou_idol.png"
+		]
+	},
+	{
+		"id": "539",
+		"name": "Kronshtadt",
+		"hull": "CA",
+		"rarity": "Ultra Rare",
+		"faction": "Northern Parliament",
+		"images": ["kronshtadt/kronshtadt.png", "kronshtadt/kronshtadt_2.png"]
+	},
+	{
+		"id": "469",
+		"name": "Kumano",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"kumano/kumano.png",
+			"kumano/kumano_2.png",
+			"kumano/kumano_3.png",
+			"kumano/kumano_4.png"
+		]
+	},
+	{
+		"id": "C031",
+		"name": "Kuon",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": ["kuon/kuon.png", "kuon/kuon_2.png"]
+	},
+	{
+		"id": "177",
+		"name": "Kuroshio",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": ["kuroshio/kuroshio.png"]
+	},
+	{
+		"id": "586",
+		"name": "Kursk",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Northern Parliament",
+		"images": ["kursk/kursk.png", "kursk/kursk_2.png", "kursk/kursk_3.png"]
+	},
+	{
+		"id": "577",
+		"name": "Kuybyshev",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Northern Parliament",
+		"images": ["kuybyshev/kuybyshev.png", "kuybyshev/kuybyshev_2.png"]
+	},
+	{
+		"id": "240",
+		"name": "Köln",
+		"hull": "CL",
+		"rarity": "Common",
+		"faction": "Iron Blood",
+		"images": ["köln/köln.png", "köln/köln_g.png"]
+	},
+	{
+		"id": "238",
+		"name": "Königsberg",
+		"hull": "CL",
+		"rarity": "Common",
+		"faction": "Iron Blood",
+		"images": ["königsberg/königsberg.png"]
+	},
+	{
+		"id": "556",
+		"name": "L'Indomptable",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Vichya Dominion",
+		"images": [
+			"l'Indomptable/l'Indomptable.png",
+			"l'Indomptable/l'Indomptable_2.png",
+			"l'Indomptable/l'Indomptable_3.png"
+		]
+	},
+	{
+		"id": "395",
+		"name": "L'Opiniâtre",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Iris Libre",
+		"images": ["l'Opiniâtre/l'Opiniâtre.png", "l'Opiniâtre/l'Opiniâtre_2.png"]
+	},
+	{
+		"id": "456",
+		"name": "La Galissonnière",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Vichya Dominion",
+		"images": [
+			"la_galissonnière/la_galissonnière.png",
+			"la_galissonnière/la_galissonnière_2.png",
+			"la_galissonnière/la_galissonnière_3.png",
+			"la_galissonnière/la_galissonnière_4.png",
+			"la_galissonnière/la_galissonnière_alter.png",
+			"la_galissonnière/la_galissonnière_alter_hx.png"
+		]
+	},
+	{
+		"id": "19",
+		"name": "Laffey",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"laffey/laffey.png",
+			"laffey/laffey_10.png",
+			"laffey/laffey_11.png",
+			"laffey/laffey_12.png",
+			"laffey/laffey_2.png",
+			"laffey/laffey_3.png",
+			"laffey/laffey_4.png",
+			"laffey/laffey_5.png",
+			"laffey/laffey_6.png",
+			"laffey/laffey_8.png",
+			"laffey/laffey_9.png",
+			"laffey/laffey_g.png",
+			"laffey/laffey_h.png"
+		]
+	},
+	{
+		"id": "615",
+		"name": "Laffey II",
+		"hull": "DD",
+		"rarity": "Ultra Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"laffey_II/laffey_II.png",
+			"laffey_II/laffey_II_3.png",
+			"laffey_II/laffey_II_n.png"
+		]
+	},
+	{
+		"id": "72",
+		"name": "Langley",
+		"hull": "CV",
+		"rarity": "Common",
+		"faction": "Eagle Union",
+		"images": ["langley/langley.png", "langley/langley_g.png"]
+	},
+	{
+		"id": "573",
+		"name": "Langley II",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["langley_II/langley_II.png", "langley_II/langley_II_2.png"]
+	},
+	{
+		"id": "394",
+		"name": "Le Malin",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Vichya Dominion",
+		"images": [
+			"le_malin/le_malin.png",
+			"le_malin/le_malin_2.png",
+			"le_malin/le_malin_3.png",
+			"le_malin/le_malin_4.png",
+			"le_malin/le_malin_idol.png"
+		]
+	},
+	{
+		"id": "351",
+		"name": "Le Mars",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Vichya Dominion",
+		"images": [
+			"le_mars/le_mars.png",
+			"le_mars/le_mars_2.png",
+			"le_mars/le_mars_3.png",
+			"le_mars/le_mars_4.png",
+			"le_mars/le_mars_g.png"
+		]
+	},
+	{
+		"id": "522",
+		"name": "Le Terrible",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Iris Libre",
+		"images": [
+			"le_terrible/le_terrible.png",
+			"le_terrible/le_terrible_2.png",
+			"le_terrible/le_terrible_3.png"
+		]
+	},
+	{
+		"id": "347",
+		"name": "Le Triomphant",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Iris Libre",
+		"images": ["le_triomphant/le_triomphant.png"]
+	},
+	{
+		"id": "359",
+		"name": "Le Téméraire",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Iris Libre",
+		"images": [
+			"le_téméraire/le_téméraire.png",
+			"le_téméraire/le_téméraire_2.png",
+			"le_téméraire/le_téméraire_3.png",
+			"le_téméraire/le_téméraire_4.png",
+			"le_téméraire/le_téméraire_idol.png"
+		]
+	},
+	{
+		"id": "104",
+		"name": "Leander",
+		"hull": "CL",
+		"rarity": "Common",
+		"faction": "Royal Navy",
+		"images": ["leander/leander.png", "leander/leander_g.png"]
+	},
+	{
+		"id": "241",
+		"name": "Leipzig",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"leipzig/leipzig.png",
+			"leipzig/leipzig_2.png",
+			"leipzig/leipzig_g.png"
+		]
+	},
+	{
+		"id": "558",
+		"name": "Leonardo da Vinci",
+		"hull": "SS",
+		"rarity": "Super Rare",
+		"faction": "Sardegna Empire",
+		"images": [
+			"leonardo_da_vinci/leonardo_da_vinci.png",
+			"leonardo_da_vinci/leonardo_da_vinci_2.png"
+		]
+	},
+	{
+		"id": "73",
+		"name": "Lexington",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["lexington/lexington.png", "lexington/lexington_2.png"]
+	},
+	{
+		"id": "505",
+		"name": "Libeccio",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sardegna Empire",
+		"images": ["libeccio/libeccio.png", "libeccio/libeccio_2.png"]
+	},
+	{
+		"id": "C094",
+		"name": "Lila Decyrus",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": [
+			"lila_decyrus/lila_decyrus.png",
+			"lila_decyrus/lila_decyrus_2.png"
+		]
+	},
+	{
+		"id": "410",
+		"name": "Littorio",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Sardegna Empire",
+		"images": [
+			"littorio/littorio.png",
+			"littorio/littorio_2.png",
+			"littorio/littorio_3.png",
+			"littorio/littorio_4.png",
+			"littorio/littorio_5.png"
+		]
+	},
+	{
+		"id": "631",
+		"name": "Liverpool",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["liverpool/liverpool.png", "liverpool/liverpool_2.png"]
+	},
+	{
+		"id": "119",
+		"name": "London",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"london/london.png",
+			"london/london_3.png",
+			"london/london_g.png",
+			"london/london_h.png"
+		]
+	},
+	{
+		"id": "70",
+		"name": "Long Island",
+		"hull": "CV",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"long_island/long_island.png",
+			"long_island/long_island_2.png",
+			"long_island/long_island_3.png",
+			"long_island/long_island_g.png",
+			"long_island/long_island_4.png"
+		]
+	},
+	{
+		"id": "619",
+		"name": "Louisville",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["louisville/louisville.png", "louisville/louisville_2.png"]
+	},
+	{
+		"id": "C068",
+		"name": "Luna",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": ["luna_DOA/luna_DOA_2_doa.png", "luna_DOA/luna_DOA_doa.png"]
+	},
+	{
+		"id": "623",
+		"name": "Lung Wu",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Dragon Empery",
+		"images": [
+			"lung_wu/lung_wu.png",
+			"lung_wu/lung_wu_2.png",
+			"lung_wu/lung_wu_3.png"
+		]
+	},
+	{
+		"id": "602",
+		"name": "Lyon",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Iris Libre",
+		"images": ["lyon/lyon.png", "lyon/lyon_2.png"]
+	},
+	{
+		"id": "544",
+		"name": "Lützow",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"lützow/lützow.png",
+			"lützow/lützow_2.png",
+			"lützow/lützow_3.png",
+			"lützow/lützow_h.png"
+		]
+	},
+	{
+		"id": "504",
+		"name": "Maestrale",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sardegna Empire",
+		"images": ["maestrale/maestrale.png", "maestrale/maestrale_2.png"]
+	},
+	{
+		"id": "525",
+		"name": "Magdeburg",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"magdeburg/magdeburg.png",
+			"magdeburg/magdeburg_2.png",
+			"magdeburg/magdeburg_3.png"
+		]
+	},
+	{
+		"id": "523",
+		"name": "Maillé Brézé",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Iris Libre",
+		"images": [
+			"maillé_brézé/maillé_brézé.png",
+			"maillé_brézé/maillé_brézé_2.png",
+			"maillé_brézé/maillé_brézé_3.png"
+		]
+	},
+	{
+		"id": "P015",
+		"name": "Mainz",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": ["mainz/mainz.png", "mainz/mainz_2.png"]
+	},
+	{
+		"id": "370",
+		"name": "Makinami",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["makinami/makinami.png", "makinami/makinami_2.png"]
+	},
+	{
+		"id": "112",
+		"name": "Manchester",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"manchester/manchester.png",
+			"manchester/manchester_2.png",
+			"manchester/manchester_3.png"
+		]
+	},
+	{
+		"id": "448",
+		"name": "Marblehead",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"marblehead/marblehead.png",
+			"marblehead/marblehead_2.png",
+			"marblehead/marblehead_3.png",
+			"marblehead/marblehead_4.png",
+			"marblehead/marblehead_5.png"
+		]
+	},
+	{
+		"id": "P022",
+		"name": "Marco Polo",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Sardegna Empire",
+		"images": ["marco_polo/marco_polo.png", "marco_polo/marco_polo_2.png"]
+	},
+	{
+		"id": "C061",
+		"name": "Marie Rose",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"marie_rose_DOA/marie_rose_DOA_2_DOA.png",
+			"marie_rose_DOA/marie_rose_DOA_3_doa.png",
+			"marie_rose_DOA/marie_rose_DOA_doa.png"
+		]
+	},
+	{
+		"id": "598",
+		"name": "Marseillaise",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Vichya Dominion",
+		"images": [
+			"marseillaise/marseillaise.png",
+			"marseillaise/marseillaise_2.png"
+		]
+	},
+	{
+		"id": "611",
+		"name": "Mary Celeste",
+		"hull": "Misc",
+		"rarity": "Super Rare",
+		"faction": "Tempesta",
+		"images": [
+			"mary_celeste/mary_celeste.png",
+			"mary_celeste/mary_celeste_2.png"
+		]
+	},
+	{
+		"id": "61",
+		"name": "Maryland",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["maryland/maryland.png", "maryland/maryland_2.png"]
+	},
+	{
+		"id": "354",
+		"name": "Massachusetts",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"massachusetts/massachusetts.png",
+			"massachusetts/massachusetts_2.png"
+		]
+	},
+	{
+		"id": "325",
+		"name": "Matchless",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["matchless/matchless.png", "matchless/matchless_2.png"]
+	},
+	{
+		"id": "270",
+		"name": "Matsukaze",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": ["matsukaze/matsukaze.png", "matsukaze/matsukaze_g.png"]
+	},
+	{
+		"id": "10",
+		"name": "Maury",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["maury/maury.png"]
+	},
+	{
+		"id": "202",
+		"name": "Maya",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": ["maya/maya.png"]
+	},
+	{
+		"id": "9",
+		"name": "McCall",
+		"hull": "DD",
+		"rarity": "Common",
+		"faction": "Eagle Union",
+		"images": ["mcCall/mcCall.png"]
+	},
+	{
+		"id": "360",
+		"name": "Memphis",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"memphis/memphis.png",
+			"memphis/memphis_2.png",
+			"memphis/memphis_3.png",
+			"memphis/memphis_4.png",
+			"memphis/memphis_alter.png"
+		]
+	},
+	{
+		"id": "333",
+		"name": "Michishio",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": ["michishio/michishio.png", "michishio/michishio_2.png"]
+	},
+	{
+		"id": "320",
+		"name": "Mikasa",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"mikasa/mikasa.png",
+			"mikasa/mikasa_2.png",
+			"mikasa/mikasa_3.png",
+			"mikasa/mikasa_4.png",
+			"mikasa/mikasa_5.png",
+			"mikasa/mikasa_6.png",
+			"mikasa/mikasa_h.png"
+		]
+	},
+	{
+		"id": "280",
+		"name": "Mikazuki",
+		"hull": "DD",
+		"rarity": "Common",
+		"faction": "Sakura Empire",
+		"images": ["mikazuki/mikazuki.png", "mikazuki/mikazuki_2.png"]
+	},
+	{
+		"id": "189",
+		"name": "Mikuma",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["mikuma/mikuma.png", "mikuma/mikuma_2.png"]
+	},
+	{
+		"id": "C083",
+		"name": "Minami Yume",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"minami_yume/minami_yume.png",
+			"minami_yume/minami_yume_2.png",
+			"minami_yume/minami_yume_3.png"
+		]
+	},
+	{
+		"id": "C073",
+		"name": "Minase Iori",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": ["minase_iori/minase_iori.png", "minase_iori/minase_iori_2.png"]
+	},
+	{
+		"id": "276",
+		"name": "Minazuki",
+		"hull": "DD",
+		"rarity": "Common",
+		"faction": "Sakura Empire",
+		"images": ["minazuki/minazuki.png"]
+	},
+	{
+		"id": "364",
+		"name": "Minneapolis",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"minneapolis/minneapolis.png",
+			"minneapolis/minneapolis_2.png",
+			"minneapolis/minneapolis_3.png",
+			"minneapolis/minneapolis_4.png",
+			"minneapolis/minneapolis_h.png"
+		]
+	},
+	{
+		"id": "432",
+		"name": "Minsk",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Northern Parliament",
+		"images": ["minsk/minsk.png", "minsk/minsk_2.png"]
+	},
+	{
+		"id": "C064",
+		"name": "Misaki",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"misaki_DOA/misaki_DOA_2_DOA.png",
+			"misaki_DOA/misaki_DOA_DOA.png"
+		]
+	},
+	{
+		"id": "C074",
+		"name": "Miura Azusa",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"miura_azusa/miura_azusa.png",
+			"miura_azusa/miura_azusa_2.png",
+			"miura_azusa/miura_azusa_2_shanluan.png",
+			"miura_azusa/miura_azusa_shanluan.png"
+		]
+	},
+	{
+		"id": "154",
+		"name": "Miyuki",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"miyuki/miyuki.png",
+			"miyuki/miyuki_2.png",
+			"miyuki/miyuki_3.png"
+		]
+	},
+	{
+		"id": "188",
+		"name": "Mogami",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["mogami/mogami.png", "mogami/mogami_g.png"]
+	},
+	{
+		"id": "P002",
+		"name": "Monarch",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"monarch/monarch.png",
+			"monarch/monarch_2.png",
+			"monarch/monarch_3.png",
+			"monarch/monarch_4.png"
+		]
+	},
+	{
+		"id": "C067",
+		"name": "Monica",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": [
+			"monika_DOA/monika_DOA_2_DOA.png",
+			"monika_DOA/monika_DOA_DOA.png"
+		]
+	},
+	{
+		"id": "329",
+		"name": "Montpelier",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"montpelier/montpelier.png",
+			"montpelier/montpelier_2.png",
+			"montpelier/montpelier_3.png"
+		]
+	},
+	{
+		"id": "515",
+		"name": "Morrison",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["morrison/morrison.png", "morrison/morrison_2.png"]
+	},
+	{
+		"id": "C087",
+		"name": "Mujina",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": ["mujina/mujina.png", "mujina/mujina_2.png"]
+	},
+	{
+		"id": "375",
+		"name": "Mullany",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["mullany/mullany.png", "mullany/mullany_3.png"]
+	},
+	{
+		"id": "498",
+		"name": "Murmansk",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Northern Parliament",
+		"images": ["murmansk/murmansk.png", "murmansk/murmansk_2.png"]
+	},
+	{
+		"id": "217",
+		"name": "Musashi",
+		"hull": "BB",
+		"rarity": "Ultra Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"musashi/musashi.png",
+			"musashi/musashi_2.png",
+			"musashi/musashi_h.png"
+		]
+	},
+	{
+		"id": "326",
+		"name": "Musketeer",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["musketeer/musketeer.png"]
+	},
+	{
+		"id": "213",
+		"name": "Mutsu",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["mutsu/mutsu.png", "mutsu/mutsu_2.png", "mutsu/mutsu_3.png"]
+	},
+	{
+		"id": "271",
+		"name": "Mutsuki",
+		"hull": "DD",
+		"rarity": "Common",
+		"faction": "Sakura Empire",
+		"images": [
+			"mutsuki/mutsuki.png",
+			"mutsuki/mutsuki_2.png",
+			"mutsuki/mutsuki_3.png",
+			"mutsuki/mutsuki_4.png",
+			"mutsuki/mutsuki_g.png"
+		]
+	},
+	{
+		"id": "196",
+		"name": "Myoukou",
+		"hull": "CA",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": ["myoukou/myoukou.png"]
+	},
+	{
+		"id": "197",
+		"name": "Nachi",
+		"hull": "CA",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": ["nachi/nachi.png", "nachi/nachi_g.png"]
+	},
+	{
+		"id": "450",
+		"name": "Naganami",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"naganami/naganami.png",
+			"naganami/naganami_2.png",
+			"naganami/naganami_3.png",
+			"naganami/naganami_4.png",
+			"naganami/naganami_h.png"
+		]
+	},
+	{
+		"id": "182",
+		"name": "Nagara",
+		"hull": "CL",
+		"rarity": "Common",
+		"faction": "Sakura Empire",
+		"images": ["nagara/nagara.png", "nagara/nagara_2.png"]
+	},
+	{
+		"id": "212",
+		"name": "Nagato",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"nagato/nagato.png",
+			"nagato/nagato_2.png",
+			"nagato/nagato_3.png",
+			"nagato/nagato_4.png",
+			"nagato/nagato_5.png",
+			"nagato/nagato_h.png"
+		]
+	},
+	{
+		"id": "278",
+		"name": "Nagatsuki",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": ["nagatsuki/nagatsuki.png", "nagatsuki/nagatsuki_2.png"]
+	},
+	{
+		"id": "C065",
+		"name": "Nagisa",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": [
+			"nagisa_DOA/nagisa_DOA_2_DOA.png",
+			"nagisa_DOA/nagisa_DOA_DOA.png"
+		]
+	},
+	{
+		"id": "310",
+		"name": "Naka",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": ["naka/naka.png", "naka/naka_2.png"]
+	},
+	{
+		"id": "C086",
+		"name": "Namiko",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": ["namiko/namiko.png", "namiko/namiko_2.png"]
+	},
+	{
+		"id": "184",
+		"name": "Natori",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"natori/natori.png",
+			"natori/natori_2.png",
+			"natori/natori_3.png"
+		]
+	},
+	{
+		"id": "519",
+		"name": "Nautilus",
+		"hull": "SS",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"nautilus/nautilus.png",
+			"nautilus/nautilus_2.png",
+			"nautilus/nautilus_3.png"
+		]
+	},
+	{
+		"id": "C032",
+		"name": "Nekone",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": ["nekone/nekone.png", "nekone/nekone_2.png"]
+	},
+	{
+		"id": "132",
+		"name": "Nelson",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"nelson/nelson.png",
+			"nelson/nelson_2.png",
+			"nelson/nelson_3.png",
+			"nelson/nelson_g.png"
+		]
+	},
+	{
+		"id": "P001",
+		"name": "Neptune",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"neptune/neptune.png",
+			"neptune/neptune_2.png",
+			"neptune/neptune_3.png"
+		]
+	},
+	{
+		"id": "C001",
+		"name": "Neptune",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": ["neptune_neptunia/neptune_neptunia.png"]
+	},
+	{
+		"id": "52",
+		"name": "Nevada",
+		"hull": "BB",
+		"rarity": "Common",
+		"faction": "Eagle Union",
+		"images": [
+			"nevada/nevada.png",
+			"nevada/nevada_2.png",
+			"nevada/nevada_g.png"
+		]
+	},
+	{
+		"id": "68",
+		"name": "New Jersey",
+		"hull": "BB",
+		"rarity": "Ultra Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"new_jersey/new_jersey.png",
+			"new_jersey/new_jersey_2.png",
+			"new_jersey/new_jersey_3.png",
+			"new_jersey/new_jersey_h.png"
+		]
+	},
+	{
+		"id": "521",
+		"name": "New Orleans",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": ["new_orleans/new_orleans.png", "new_orleans/new_orleans_2.png"]
+	},
+	{
+		"id": "361",
+		"name": "Newcastle",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"newcastle/newcastle.png",
+			"newcastle/newcastle_2.png",
+			"newcastle/newcastle_g.png"
+		]
+	},
+	{
+		"id": "301",
+		"name": "Nicholas",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"nicholas/nicholas.png",
+			"nicholas/nicholas_2.png",
+			"nicholas/nicholas_3.png",
+			"nicholas/nicholas_4.png",
+			"nicholas/nicholas_5.png",
+			"nicholas/nicholas_g.png"
+		]
+	},
+	{
+		"id": "506",
+		"name": "Nicoloso da Recco",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sardegna Empire",
+		"images": [
+			"nicoloso_da_recco/nicoloso_da_recco.png",
+			"nicoloso_da_recco/nicoloso_da_recco_2.png"
+		]
+	},
+	{
+		"id": "258",
+		"name": "Ning Hai",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Dragon Empery",
+		"images": [
+			"ning_hai/ning_hai.png",
+			"ning_hai/ning_hai_2.png",
+			"ning_hai/ning_hai_3.png",
+			"ning_hai/ning_hai_4.png",
+			"ning_hai/ning_hai_5.png",
+			"ning_hai/ning_hai_6.png",
+			"ning_hai/ning_hai_7.png",
+			"ning_hai/ning_hai_8.png",
+			"ning_hai/ning_hai_g.png"
+		]
+	},
+	{
+		"id": "C002",
+		"name": "Noire",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": ["noire/noire.png"]
+	},
+	{
+		"id": "123",
+		"name": "Norfolk",
+		"hull": "CA",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": ["norfolk/norfolk.png"]
+	},
+	{
+		"id": "63",
+		"name": "North Carolina",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"north_carolina/north_carolina.png",
+			"north_carolina/north_carolina_2.png"
+		]
+	},
+	{
+		"id": "41",
+		"name": "Northampton",
+		"hull": "CA",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["northampton/northampton.png"]
+	},
+	{
+		"id": "575",
+		"name": "Northampton II",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"northamptonII/northamptonII.png",
+			"northamptonII/northamptonII_2.png",
+			"northamptonII/northamptonII_3.png"
+		]
+	},
+	{
+		"id": "322",
+		"name": "Noshiro",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"noshiro/noshiro.png",
+			"noshiro/noshiro_2.png",
+			"noshiro/noshiro_3.png",
+			"noshiro/noshiro_4.png",
+			"noshiro/noshiro_5.png",
+			"noshiro/noshiro_6.png",
+			"noshiro/noshiro_7.png",
+			"noshiro/noshiro_h.png",
+			"noshiro/noshiro_8.png",
+			"noshiro/noshiro_idol.png"
+		]
+	},
+	{
+		"id": "170",
+		"name": "Nowaki",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["nowaki/nowaki.png"]
+	},
+	{
+		"id": "630",
+		"name": "Nubian",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": ["nubian/nubian.png", "nubian/nubian_2.png"]
+	},
+	{
+		"id": "C066",
+		"name": "Nyotengu",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": [
+			"nyotengu_DOA/nyotengu_DOA_2_DOA.png",
+			"nyotengu_DOA/nyotengu_DOA_DOA.png"
+		]
+	},
+	{
+		"id": "486",
+		"name": "Nürnberg",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["nürnberg/nürnberg.png", "nürnberg/nürnberg_2.png"]
+	},
+	{
+		"id": "P016",
+		"name": "Odin",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": ["odin/odin.png", "odin/odin_2.png"]
+	},
+	{
+		"id": "626",
+		"name": "Ogneyvoy",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Northern Parliament",
+		"images": ["ogneyvoy/ogneyvoy.png", "ogneyvoy/ogneyvoy_2.png"]
+	},
+	{
+		"id": "507",
+		"name": "Oite",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": ["oite/oite.png", "oite/oite_2.png", "oite/oite_3.png"]
+	},
+	{
+		"id": "53",
+		"name": "Oklahoma",
+		"hull": "BB",
+		"rarity": "Common",
+		"faction": "Eagle Union",
+		"images": [
+			"oklahoma/oklahoma.png",
+			"oklahoma/oklahoma_2.png",
+			"oklahoma/oklahoma_g.png"
+		]
+	},
+	{
+		"id": "29",
+		"name": "Omaha",
+		"hull": "CL",
+		"rarity": "Common",
+		"faction": "Eagle Union",
+		"images": ["omaha/omaha.png"]
+	},
+	{
+		"id": "332",
+		"name": "Ooshio",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"ooshio/ooshio.png",
+			"ooshio/ooshio_2.png",
+			"ooshio/ooshio_3.png",
+			"ooshio/ooshio_4.png",
+			"ooshio/ooshio_5.png"
+		]
+	},
+	{
+		"id": "590",
+		"name": "Otto von Alvensleben",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"otto_von_alvensleben/otto_von_alvensleben.png",
+			"otto_von_alvensleben/otto_von_alvensleben_2.png"
+		]
+	},
+	{
+		"id": "606",
+		"name": "Owari",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": ["owari/owari.png", "owari/owari_2.png"]
+	},
+	{
+		"id": "178",
+		"name": "Oyashio",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": ["oyashio/oyashio.png"]
+	},
+	{
+		"id": "599",
+		"name": "Painlevé",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Iris Libre",
+		"images": ["painlevé/painlevé.png", "painlevé/painlevé_2.png"]
+	},
+	{
+		"id": "434",
+		"name": "Pamiat Merkuria",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Northern Parliament",
+		"images": [
+			"pamiat_merkuria/pamiat_merkuria.png",
+			"pamiat_merkuria/pamiat_merkuria_2.png",
+			"pamiat_merkuria/pamiat_merkuria_3.png",
+			"pamiat_merkuria/pamiat_merkuria_4.png",
+			"pamiat_merkuria/pamiat_merkuria_5.png",
+			"pamiat_merkuria/pamiat_merkuria_alter.png",
+			"pamiat_merkuria/pamiat_merkuria_g.png"
+		]
+	},
+	{
+		"id": "C093",
+		"name": "Patricia Abelheim",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"patricia_abelheim/patricia_abelheim.png",
+			"patricia_abelheim/patricia_abelheim_2.png"
+		]
+	},
+	{
+		"id": "495",
+		"name": "Penelope",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"penelope/penelope.png",
+			"penelope/penelope_2.png",
+			"penelope/penelope_3.png"
+		]
+	},
+	{
+		"id": "54",
+		"name": "Pennsylvania",
+		"hull": "BB",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"pennsylvania/pennsylvania.png",
+			"pennsylvania/pennsylvania_2.png"
+		]
+	},
+	{
+		"id": "39",
+		"name": "Pensacola",
+		"hull": "CA",
+		"rarity": "Common",
+		"faction": "Eagle Union",
+		"images": ["pensacola/pensacola.png"]
+	},
+	{
+		"id": "462",
+		"name": "Perseus",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"perseus/perseus.png",
+			"perseus/perseus_2.png",
+			"perseus/perseus_3.png"
+		]
+	},
+	{
+		"id": "482",
+		"name": "Peter Strasser",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"peter_strasser/peter_strasser.png",
+			"peter_strasser/peter_strasser_2.png",
+			"peter_strasser/peter_strasser_3.png",
+			"peter_strasser/peter_strasser_4.png",
+			"peter_strasser/peter_strasser_hx.png"
+		]
+	},
+	{
+		"id": "32",
+		"name": "Phoenix",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["phoenix/phoenix.png"]
+	},
+	{
+		"id": "259",
+		"name": "Ping Hai",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Dragon Empery",
+		"images": [
+			"ping_hai/ping_hai.png",
+			"ping_hai/ping_hai_2.png",
+			"ping_hai/ping_hai_3.png",
+			"ping_hai/ping_hai_4.png",
+			"ping_hai/ping_hai_5.png",
+			"ping_hai/ping_hai_6.png",
+			"ping_hai/ping_hai_7.png",
+			"ping_hai/ping_hai_8.png",
+			"ping_hai/ping_hai_g.png"
+		]
+	},
+	{
+		"id": "P023",
+		"name": "Plymouth",
+		"hull": "CL",
+		"rarity": "Ultra Rare",
+		"faction": "Royal Navy",
+		"images": ["plymouth/plymouth.png", "plymouth/plymouth_2.png"]
+	},
+	{
+		"id": "489",
+		"name": "Pola",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Sardegna Empire",
+		"images": ["pola/pola.png", "pola/pola_2.png"]
+	},
+	{
+		"id": "628",
+		"name": "Poltava",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Northern Parliament",
+		"images": ["poltava/poltava.png", "poltava/poltava_2.png"]
+	},
+	{
+		"id": "541",
+		"name": "Pompeo Magno",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Sardegna Empire",
+		"images": [
+			"pompeo_magno/pompeo_magno.png",
+			"pompeo_magno/pompeo_magno_2.png"
+		]
+	},
+	{
+		"id": "44",
+		"name": "Portland",
+		"hull": "CA",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"portland/portland.png",
+			"portland/portland_2.png",
+			"portland/portland_g.png"
+		]
+	},
+	{
+		"id": "135",
+		"name": "Prince of Wales",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"prince_of_wales/prince_of_wales.png",
+			"prince_of_wales/prince_of_wales_2.png",
+			"prince_of_wales/prince_of_wales_3.png",
+			"prince_of_wales/prince_of_wales_4.png",
+			"prince_of_wales/prince_of_wales_5.png"
+		]
+	},
+	{
+		"id": "C089",
+		"name": "Princess Hime",
+		"hull": "Misc",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"princess_hime/princess_hime.png",
+			"princess_hime/princess_hime_2.png"
+		]
+	},
+	{
+		"id": "473",
+		"name": "Princeton",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"princeton/princeton.png",
+			"princeton/princeton_2.png",
+			"princeton/princeton_3.png",
+			"princeton/princeton_4.png",
+			"princeton/princeton_alter.png"
+		]
+	},
+	{
+		"id": "527",
+		"name": "Prinz Adalbert",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"prinz_adalbert/prinz_adalbert.png",
+			"prinz_adalbert/prinz_adalbert_2.png",
+			"prinz_adalbert/prinz_adalbert_3.png"
+		]
+	},
+	{
+		"id": "244",
+		"name": "Prinz Eugen",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"prinz_eugen/prinz_eugen.png",
+			"prinz_eugen/prinz_eugen_2.png",
+			"prinz_eugen/prinz_eugen_3.png",
+			"prinz_eugen/prinz_eugen_4.png",
+			"prinz_eugen/prinz_eugen_5.png",
+			"prinz_eugen/prinz_eugen_6.png",
+			"prinz_eugen/prinz_eugen_h.png",
+			"prinz_eugen/prinz_eugen_younv.png",
+			"prinz_eugen/prinz_eugen_7.png",
+			"prinz_eugen/prinz_eugen_idol.png"
+		]
+	},
+	{
+		"id": "483",
+		"name": "Prinz Heinrich",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"prinz_heinrich/prinz_heinrich.png",
+			"prinz_heinrich/prinz_heinrich_2.png",
+			"prinz_heinrich/prinz_heinrich_3.png",
+			"prinz_heinrich/prinz_heinrich_4.png",
+			"prinz_heinrich/prinz_heinrich_5.png"
+		]
+	},
+	{
+		"id": "P024",
+		"name": "Prinz Rupprecht",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"prinz_rupprecht/prinz_rupprecht.png",
+			"prinz_rupprecht/prinz_rupprecht_2.png"
+		]
+	},
+	{
+		"id": "C005",
+		"name": "Purple Heart",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"purple_heart/purple_heart_1.png",
+			"purple_heart/purple_heart_2.png"
+		]
+	},
+	{
+		"id": "130",
+		"name": "Queen Elizabeth",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"queen_elizabeth/queen_elizabeth.png",
+			"queen_elizabeth/queen_elizabeth_2.png",
+			"queen_elizabeth/queen_elizabeth_3.png",
+			"queen_elizabeth/queen_elizabeth_4.png",
+			"queen_elizabeth/queen_elizabeth_5.png",
+			"queen_elizabeth/queen_elizabeth_6.png",
+			"queen_elizabeth/queen_elizabeth_7.png",
+			"queen_elizabeth/queen_elizabeth_alter.png"
+		]
+	},
+	{
+		"id": "47",
+		"name": "Quincy",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["quincy/quincy.png", "quincy/quincy_2.png"]
+	},
+	{
+		"id": "299",
+		"name": "Radford",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["radford/radford.png", "radford/radford_3.png"]
+	},
+	{
+		"id": "30",
+		"name": "Raleigh",
+		"hull": "CL",
+		"rarity": "Common",
+		"faction": "Eagle Union",
+		"images": ["raleigh/raleigh.png"]
+	},
+	{
+		"id": "75",
+		"name": "Ranger",
+		"hull": "CV",
+		"rarity": "Common",
+		"faction": "Eagle Union",
+		"images": ["ranger/ranger.png", "ranger/ranger_g.png"]
+	},
+	{
+		"id": "592",
+		"name": "Regensburg",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": ["regensburg/regensburg.png", "regensburg/regensburg_2.png"]
+	},
+	{
+		"id": "C091",
+		"name": "Reisalin Stout",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"reisalin_stout/reisalin_stout.png",
+			"reisalin_stout/reisalin_stout_2.png"
+		]
+	},
+	{
+		"id": "445",
+		"name": "Reno",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"reno/reno.png",
+			"reno/reno_2.png",
+			"reno/reno_3.png",
+			"reno/reno_4.png",
+			"reno/reno_5.png"
+		]
+	},
+	{
+		"id": "127",
+		"name": "Renown",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"renown/renown.png",
+			"renown/renown_2.png",
+			"renown/renown_alter.png",
+			"renown/renown_younv.png"
+		]
+	},
+	{
+		"id": "128",
+		"name": "Repulse",
+		"hull": "BB",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": ["repulse/repulse.png", "repulse/repulse_alter.png"]
+	},
+	{
+		"id": "554",
+		"name": "Revenge",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["revenge/revenge.png", "revenge/revenge_2.png"]
+	},
+	{
+		"id": "453",
+		"name": "Richelieu",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Iris Libre",
+		"images": [
+			"richelieu/richelieu.png",
+			"richelieu/richelieu_2.png",
+			"richelieu/richelieu_3.png"
+		]
+	},
+	{
+		"id": "303",
+		"name": "Richmond",
+		"hull": "CL",
+		"rarity": "Common",
+		"faction": "Eagle Union",
+		"images": ["richmond/richmond.png"]
+	},
+	{
+		"id": "133",
+		"name": "Rodney",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"rodney/rodney.png",
+			"rodney/rodney_2.png",
+			"rodney/rodney_3.png",
+			"rodney/rodney_4.png",
+			"rodney/rodney_alter.png",
+			"rodney/rodney_h.png"
+		]
+	},
+	{
+		"id": "561",
+		"name": "Roma",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Sardegna Empire",
+		"images": ["roma/roma.png", "roma/roma_2.png"]
+	},
+	{
+		"id": "P005",
+		"name": "Roon",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"roon/roon.png",
+			"roon/roon_2.png",
+			"roon/roon_4.png",
+			"roon/roon_idol.png"
+		]
+	},
+	{
+		"id": "571",
+		"name": "Royal Fortune",
+		"hull": "Misc",
+		"rarity": "Super Rare",
+		"faction": "Tempesta",
+		"images": [
+			"royal_fortune/royal_fortune.png",
+			"royal_fortune/royal_fortune_2.png",
+			"royal_fortune/royal_fortune_3.png"
+		]
+	},
+	{
+		"id": "582",
+		"name": "Royal Oak",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": ["royal_oak/royal_oak.png", "royal_oak/royal_oak_2.png"]
+	},
+	{
+		"id": "C033",
+		"name": "Rurutie",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": ["rurutie/rurutie.png", "rurutie/rurutie_2.png"]
+	},
+	{
+		"id": "426",
+		"name": "Ryuuhou",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": ["ryuuhou/ryuuhou.png", "ryuuhou/ryuuhou_2.png"]
+	},
+	{
+		"id": "223",
+		"name": "Ryuujou",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"ryuujou/ryuujou.png",
+			"ryuujou/ryuujou_2.png",
+			"ryuujou/ryuujou_3.png"
+		]
+	},
+	{
+		"id": "P006",
+		"name": "Saint Louis",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Iris Libre",
+		"images": [
+			"saint_louis/saint_louis.png",
+			"saint_louis/saint_louis_2.png",
+			"saint_louis/saint_louis_3.png"
+		]
+	},
+	{
+		"id": "324",
+		"name": "Sakawa",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"sakawa/sakawa.png",
+			"sakawa/sakawa_2.png",
+			"sakawa/sakawa_3.png",
+			"sakawa/sakawa_4.png"
+		]
+	},
+	{
+		"id": "40",
+		"name": "Salt Lake City",
+		"hull": "CA",
+		"rarity": "Common",
+		"faction": "Eagle Union",
+		"images": ["salt_lake_city/salt_lake_city.png"]
+	},
+	{
+		"id": "36",
+		"name": "San Diego",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"san_diego/san_diego.png",
+			"san_diego/san_diego_2.png",
+			"san_diego/san_diego_g.png",
+			"san_diego/san_diego_h.png",
+			"san_diego/san_diego_younv.png"
+		]
+	},
+	{
+		"id": "512",
+		"name": "San Francisco",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"san_francisco/san_francisco.png",
+			"san_francisco/san_francisco_3.png",
+			"san_francisco/san_francisco_3_hx.png",
+			"san_francisco/san_francisco_4.png"
+		]
+	},
+	{
+		"id": "618",
+		"name": "San Jacinto",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["san_jacinto/san_jacinto.png", "san_jacinto/san_jacinto_2.png"]
+	},
+	{
+		"id": "404",
+		"name": "San Juan",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["san_juan/san_juan.png", "san_juan/san_juan_2.png"]
+	},
+	{
+		"id": "C035",
+		"name": "Saraana",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": ["saraana/saraana.png", "saraana/saraana_2.png"]
+	},
+	{
+		"id": "74",
+		"name": "Saratoga",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"saratoga/saratoga.png",
+			"saratoga/saratoga_2.png",
+			"saratoga/saratoga_3.png",
+			"saratoga/saratoga_4.png",
+			"saratoga/saratoga_5.png",
+			"saratoga/saratoga_6.png",
+			"saratoga/saratoga_7.png",
+			"saratoga/saratoga_8.png",
+			"saratoga/saratoga_9.png",
+			"saratoga/saratoga_g.png",
+			"saratoga/saratoga_h.png",
+			"saratoga/saratoga_10.png"
+		]
+	},
+	{
+		"id": "248",
+		"name": "Scharnhorst",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": [
+			"scharnhorst/scharnhorst.png",
+			"scharnhorst/scharnhorst_2.png",
+			"scharnhorst/scharnhorst_alter.png"
+		]
+	},
+	{
+		"id": "584",
+		"name": "Scylla",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"scylla/scylla.png",
+			"scylla/scylla_2.png",
+			"scylla/scylla_3.png"
+		]
+	},
+	{
+		"id": "P007",
+		"name": "Seattle",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"seattle/seattle.png",
+			"seattle/seattle_2.png",
+			"seattle/seattle_3.png",
+			"seattle/seattle_4.png"
+		]
+	},
+	{
+		"id": "308",
+		"name": "Sendai",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": ["sendai/sendai.png", "sendai/sendai_g.png"]
+	},
+	{
+		"id": "C095",
+		"name": "Serri Glaus",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": ["serri_glaus/serri_glaus.png", "serri_glaus/serri_glaus_2.png"]
+	},
+	{
+		"id": "587",
+		"name": "Sevastopol",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Northern Parliament",
+		"images": ["sevastopol/sevastopol.png", "sevastopol/sevastopol_2.png"]
+	},
+	{
+		"id": "543",
+		"name": "Seydlitz",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"seydlitz/seydlitz.png",
+			"seydlitz/seydlitz_4.png",
+			"seydlitz/seydlitz_6.png",
+			"seydlitz/seydlitz_7.png"
+		]
+	},
+	{
+		"id": "378",
+		"name": "Shangri-La",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"shangri-La/shangri-La.png",
+			"shangri-La/shangri-La_2.png",
+			"shangri-La/shangri-La_3.png"
+		]
+	},
+	{
+		"id": "111",
+		"name": "Sheffield",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"sheffield/sheffield.png",
+			"sheffield/sheffield_2.png",
+			"sheffield/sheffield_3.png",
+			"sheffield/sheffield_4.png",
+			"sheffield/sheffield_5.png",
+			"sheffield/sheffield_alter.png",
+			"sheffield/sheffield_idol.png"
+		]
+	},
+	{
+		"id": "165",
+		"name": "Shigure",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"shigure/shigure.png",
+			"shigure/shigure_2.png",
+			"shigure/shigure_3.png",
+			"shigure/shigure_4.png",
+			"shigure/shigure_g.png"
+		]
+	},
+	{
+		"id": "268",
+		"name": "Shimakaze",
+		"hull": "DD",
+		"rarity": "Ultra Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"shimakaze/shimakaze.png",
+			"shimakaze/shimakaze_3.png",
+			"shimakaze/shimakaze_4.png",
+			"shimakaze/shimakaze_5.png",
+			"shimakaze/shimakaze_6.png"
+		]
+	},
+	{
+		"id": "P029",
+		"name": "Shimanto",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": ["shimanto/shimanto.png", "shimanto/shimanto_2.png"]
+	},
+	{
+		"id": "231",
+		"name": "Shinano",
+		"hull": "CV",
+		"rarity": "Ultra Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"shinano/shinano.png",
+			"shinano/shinano_2.png",
+			"shinano/shinano_3.png",
+			"shinano/shinano_4.png",
+			"shinano/shinano_younv.png"
+		]
+	},
+	{
+		"id": "C082",
+		"name": "Shinjou Akane",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"shinjou_akane/shinjou_akane.png",
+			"shinjou_akane/shinjou_akane_2.png",
+			"shinjou_akane/shinjou_akane_3.png"
+		]
+	},
+	{
+		"id": "168",
+		"name": "Shiranui",
+		"hull": "DD",
+		"rarity": "Common",
+		"faction": "Sakura Empire",
+		"images": [
+			"shiranui/shiranui.png",
+			"shiranui/shiranui_2.png",
+			"shiranui/shiranui_g.png"
+		]
+	},
+	{
+		"id": "163",
+		"name": "Shiratsuyu",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": ["shiratsuyu/shiratsuyu.png", "shiratsuyu/shiratsuyu_2.png"]
+	},
+	{
+		"id": "152",
+		"name": "Shirayuki",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["shirayuki/shirayuki.png", "shirayuki/shirayuki_2.png"]
+	},
+	{
+		"id": "222",
+		"name": "Shouhou",
+		"hull": "CV",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"shouhou/shouhou.png",
+			"shouhou/shouhou_2.png",
+			"shouhou/shouhou_g.png"
+		]
+	},
+	{
+		"id": "228",
+		"name": "Shoukaku",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"shoukaku/shoukaku.png",
+			"shoukaku/shoukaku_2.png",
+			"shoukaku/shoukaku_3.png"
+		]
+	},
+	{
+		"id": "120",
+		"name": "Shropshire",
+		"hull": "CA",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": ["shropshire/shropshire.png", "shropshire/shropshire_g.png"]
+	},
+	{
+		"id": "26",
+		"name": "Sims",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["sims/sims.png", "sims/sims_g.png"]
+	},
+	{
+		"id": "371",
+		"name": "Sirius",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"sirius/sirius.png",
+			"sirius/sirius_2.png",
+			"sirius/sirius_3.png",
+			"sirius/sirius_4.png"
+		]
+	},
+	{
+		"id": "417",
+		"name": "Smalley",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["smalley/smalley.png", "smalley/smalley_3.png"]
+	},
+	{
+		"id": "537",
+		"name": "Soobrazitelny",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Northern Parliament",
+		"images": [
+			"soobrazitelny/soobrazitelny.png",
+			"soobrazitelny/soobrazitelny_2.png"
+		]
+	},
+	{
+		"id": "226",
+		"name": "Souryuu",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"souryuu/souryuu.png",
+			"souryuu/souryuu_2.png",
+			"souryuu/souryuu_3.png",
+			"souryuu/souryuu_alter.png",
+			"souryuu/souryuu_alter_hei.png",
+			"souryuu/souryuu_g.png"
+		]
+	},
+	{
+		"id": "65",
+		"name": "South Dakota",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"south_dakota/south_dakota.png",
+			"south_dakota/south_dakota_2.png"
+		]
+	},
+	{
+		"id": "110",
+		"name": "Southampton",
+		"hull": "CL",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"southampton/southampton.png",
+			"southampton/southampton_2.png",
+			"southampton/southampton_3.png",
+			"southampton/southampton_h.png"
+		]
+	},
+	{
+		"id": "440",
+		"name": "Sovetskaya Belorussiya",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Northern Parliament",
+		"images": [
+			"sovetskaya_belorussiya/sovetskaya_belorussiya.png",
+			"sovetskaya_belorussiya/sovetskaya_belorussiya_2.png"
+		]
+	},
+	{
+		"id": "441",
+		"name": "Sovetskaya Rossiya",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Northern Parliament",
+		"images": [
+			"sovetskaya_rossiya/sovetskaya_rossiya.png",
+			"sovetskaya_rossiya/sovetskaya_rossiya_2.png"
+		]
+	},
+	{
+		"id": "483",
+		"name": "Sovetsky Soyuz",
+		"hull": "BB",
+		"rarity": "Ultra Rare",
+		"faction": "Northern Parliament",
+		"images": [
+			"sovetsky_soyuz/sovetsky_soyuz.png",
+			"sovetsky_soyuz/sovetsky_soyuz_2.png",
+			"sovetsky_soyuz/sovetsky_soyuz_old.png"
+		]
+	},
+	{
+		"id": "3",
+		"name": "Specialized Bulin Custom MKIII",
+		"hull": "DD",
+		"rarity": "Ultra Rare",
+		"faction": "Misc",
+		"images": [
+			"specialized_bulin_custom_MKIII/specialized_bulin_custom_MKIII_super.png"
+		]
+	},
+	{
+		"id": "17",
+		"name": "Spence",
+		"hull": "DD",
+		"rarity": "Common",
+		"faction": "Eagle Union",
+		"images": ["spence/spence.png"]
+	},
+	{
+		"id": "305",
+		"name": "St.Louis",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"st.louis/st.louis.png",
+			"st.louis/st.louis_2.png",
+			"st.louis/st.louis_3.png",
+			"st.louis/st.louis_4.png"
+		]
+	},
+	{
+		"id": "409",
+		"name": "Stanly",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["stanly/stanly.png"]
+	},
+	{
+		"id": "509",
+		"name": "Stephen Potter",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"stephen_potter/stephen_potter.png",
+			"stephen_potter/stephen_potter_2.png"
+		]
+	},
+	{
+		"id": "491",
+		"name": "Stremitelny",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Northern Parliament",
+		"images": ["stremitelny/stremitelny.png", "stremitelny/stremitelny_2.png"]
+	},
+	{
+		"id": "122",
+		"name": "Suffolk",
+		"hull": "CA",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": ["suffolk/suffolk.png", "suffolk/suffolk_g.png"]
+	},
+	{
+		"id": "600",
+		"name": "Suffren",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Iris Libre",
+		"images": ["suffren/suffren.png", "suffren/suffren_2.png"]
+	},
+	{
+		"id": "350",
+		"name": "Surcouf",
+		"hull": "SS",
+		"rarity": "Elite",
+		"faction": "Iris Libre",
+		"images": [
+			"surcouf/surcouf.png",
+			"surcouf/surcouf_2.png",
+			"surcouf/surcouf_3.png"
+		]
+	},
+	{
+		"id": "425",
+		"name": "Suruga",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"suruga/suruga.png",
+			"suruga/suruga_3.png",
+			"suruga/suruga_4.png",
+			"suruga/suruga_5.png"
+		]
+	},
+	{
+		"id": "337",
+		"name": "Sussex",
+		"hull": "CA",
+		"rarity": "Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"sussex/sussex.png",
+			"sussex/sussex_2.png",
+			"sussex/sussex_3.png"
+		]
+	},
+	{
+		"id": "468",
+		"name": "Suzutsuki",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"suzutsuki/suzutsuki.png",
+			"suzutsuki/suzutsuki_2.png",
+			"suzutsuki/suzutsuki_3.png"
+		]
+	},
+	{
+		"id": "382",
+		"name": "Suzuya",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["suzuya/suzuya.png"]
+	},
+	{
+		"id": "627",
+		"name": "Svirepy",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Northern Parliament",
+		"images": ["svirepy/svirepy.png", "svirepy/svirepy_2.png"]
+	},
+	{
+		"id": "393",
+		"name": "Swiftsure",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"swiftsure/swiftsure.png",
+			"swiftsure/swiftsure_2.png",
+			"swiftsure/swiftsure_3.png",
+			"swiftsure/swiftsure_4.png"
+		]
+	},
+	{
+		"id": "613",
+		"name": "São Martinho",
+		"hull": "Misc",
+		"rarity": "Super Rare",
+		"faction": "Tempesta",
+		"images": [
+			"são_martinho/são_martinho.png",
+			"são_martinho/são_martinho_2.png"
+		]
+	},
+	{
+		"id": "256",
+		"name": "Tai Yuan",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Dragon Empery",
+		"images": [
+			"tai_yuan/tai_yuan.png",
+			"tai_yuan/tai_yuan_2.png",
+			"tai_yuan/tai_yuan_g.png"
+		]
+	},
+	{
+		"id": "230",
+		"name": "Taihou",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"taihou/taihou.png",
+			"taihou/taihou_2.png",
+			"taihou/taihou_3.png",
+			"taihou/taihou_4.png",
+			"taihou/taihou_5.png",
+			"taihou/taihou_6.png",
+			"taihou/taihou_h.png",
+			"taihou/taihou_idol.png",
+			"taihou/taihou_younv.png"
+		]
+	},
+	{
+		"id": "200",
+		"name": "Takao",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"takao/takao.png",
+			"takao/takao_2.png",
+			"takao/takao_3.png",
+			"takao/takao_4.png",
+			"takao/takao_5.png",
+			"takao/takao_6.png",
+			"takao/takao_alter.png",
+			"takao/takao_h.png"
+		]
+	},
+	{
+		"id": "C081",
+		"name": "Takarada Rikka",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"takarada_rikka/takarada_rikka.png",
+			"takarada_rikka/takarada_rikka_2.png",
+			"takarada_rikka/takarada_rikka_3.png"
+		]
+	},
+	{
+		"id": "496",
+		"name": "Tallinn",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Northern Parliament",
+		"images": [
+			"tallinn/tallinn.png",
+			"tallinn/tallinn_2.png",
+			"tallinn/tallinn_3.png"
+		]
+	},
+	{
+		"id": "C069",
+		"name": "Tamaki",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"tamaki_DOA/tamaki_DOA_2_doa.png",
+			"tamaki_DOA/tamaki_DOA_doa.png"
+		]
+	},
+	{
+		"id": "319",
+		"name": "Tanikaze",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"tanikaze/tanikaze.png",
+			"tanikaze/tanikaze_2.png",
+			"tanikaze/tanikaze_4.png",
+			"tanikaze/tanikaze_g.png"
+		]
+	},
+	{
+		"id": "452",
+		"name": "Tartu",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Vichya Dominion",
+		"images": ["tartu/tartu.png", "tartu/tartu_2.png"]
+	},
+	{
+		"id": "433",
+		"name": "Tashkent",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Northern Parliament",
+		"images": [
+			"tashkent/tashkent.png",
+			"tashkent/tashkent_2.png",
+			"tashkent/tashkent_3.png",
+			"tashkent/tashkent_idol.png",
+			"tashkent/tashkent_4.png"
+		]
+	},
+	{
+		"id": "58",
+		"name": "Tennessee",
+		"hull": "BB",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["tennessee/tennessee.png"]
+	},
+	{
+		"id": "150",
+		"name": "Terror",
+		"hull": "Misc",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["terror/terror.png", "terror/terror_2.png"]
+	},
+	{
+		"id": "14",
+		"name": "Thatcher",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["thatcher/thatcher.png"]
+	},
+	{
+		"id": "C088",
+		"name": "The 2nd",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": ["the_2nd/the_2nd.png", "the_2nd/the_2nd_2.png"]
+	},
+	{
+		"id": "578",
+		"name": "Theseus",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": ["theseus/theseus.png", "theseus/theseus_2.png"]
+	},
+	{
+		"id": "546",
+		"name": "Thüringen",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["thüringen/thüringen.png", "thüringen/thüringen_2.png"]
+	},
+	{
+		"id": "511",
+		"name": "Ticonderoga",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": [
+			"ticonderoga/ticonderoga.png",
+			"ticonderoga/ticonderoga_2.png",
+			"ticonderoga/ticonderoga_2_hx.png",
+			"ticonderoga/ticonderoga_3.png"
+		]
+	},
+	{
+		"id": "580",
+		"name": "Ting An",
+		"hull": "Misc",
+		"rarity": "Elite",
+		"faction": "Dragon Empery",
+		"images": ["ting_an/ting_an.png", "ting_an/ting_an_2.png"]
+	},
+	{
+		"id": "251",
+		"name": "Tirpitz",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"tirpitz/tirpitz.png",
+			"tirpitz/tirpitz_2.png",
+			"tirpitz/tirpitz_3.png",
+			"tirpitz/tirpitz_4.png",
+			"tirpitz/tirpitz_5.png"
+		]
+	},
+	{
+		"id": "503",
+		"name": "Torricelli",
+		"hull": "SS",
+		"rarity": "Elite",
+		"faction": "Sardegna Empire",
+		"images": ["torricelli/torricelli.png", "torricelli/torricelli_2.png"]
+	},
+	{
+		"id": "215",
+		"name": "Tosa",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": ["tosa/tosa.png", "tosa/tosa_2.png", "tosa/tosa_3.png"]
+	},
+	{
+		"id": "414",
+		"name": "Trento",
+		"hull": "CA",
+		"rarity": "Rare",
+		"faction": "Sardegna Empire",
+		"images": [
+			"trento/trento.png",
+			"trento/trento_2.png",
+			"trento/trento_alter.png"
+		]
+	},
+	{
+		"id": "2",
+		"name": "Trial Bulin MKII",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"trial_bulin_MKII/trial_bulin_MKII.png",
+			"trial_bulin_MKII/trial_bulin_MKII_2.png"
+		]
+	},
+	{
+		"id": "542",
+		"name": "Trieste",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Sardegna Empire",
+		"images": [
+			"trieste/trieste.png",
+			"trieste/trieste_2.png",
+			"trieste/trieste_3.png"
+		]
+	},
+	{
+		"id": "399",
+		"name": "U-101",
+		"hull": "SS",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": ["u-101/u-101.png", "u-101/u-101_2.png"]
+	},
+	{
+		"id": "416",
+		"name": "U-110",
+		"hull": "SS",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": [
+			"u-110/u-110.png",
+			"u-110/u-110_2.png",
+			"u-110/u-110_4.png",
+			"u-110/u110_3.png",
+			"u-110/u110_5.png",
+			"u-110/u110_6.png"
+		]
+	},
+	{
+		"id": "528",
+		"name": "U-1206",
+		"hull": "SS",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["u-1206/u-1206.png", "u-1206/u-1206_2.png"]
+	},
+	{
+		"id": "484",
+		"name": "U-37",
+		"hull": "SS",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": ["u-37/u-37.png", "u-37/u-37_2.png"]
+	},
+	{
+		"id": "492",
+		"name": "U-410",
+		"hull": "SS",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["u-410/u-410.png", "u-410/u-410_2.png", "u-410/u-410_3.png"]
+	},
+	{
+		"id": "343",
+		"name": "U-47",
+		"hull": "SS",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"u-47/u-47_3.png",
+			"u-47/u-47_5.png",
+			"u-47/u47.png",
+			"u-47/u47_2.png",
+			"u-47/u47_4.png",
+			"u-47/u47_6.png"
+		]
+	},
+	{
+		"id": "400",
+		"name": "U-522",
+		"hull": "SS",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["u-522/u-522.png"]
+	},
+	{
+		"id": "386",
+		"name": "U-556",
+		"hull": "SS",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["u-556/u-556.png", "u-556/u-556_2.png", "u-556/u556_alter.png"]
+	},
+	{
+		"id": "344",
+		"name": "U-557",
+		"hull": "SS",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["u-557/u-557.png"]
+	},
+	{
+		"id": "387",
+		"name": "U-73",
+		"hull": "SS",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["u-73/u-73.png", "u-73/u-73_3.png", "u-73/u-73_4.png"]
+	},
+	{
+		"id": "341",
+		"name": "U-81",
+		"hull": "SS",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": ["u-81/u-81.png", "u-81/u-81_2.png", "u-81/u81_3.png"]
+	},
+	{
+		"id": "467",
+		"name": "U-96",
+		"hull": "SS",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": ["u-96/u-96.png", "u-96/u-96_2.png", "u-96/u-96_3.png"]
+	},
+	{
+		"id": "529",
+		"name": "Ulrich von Hutten",
+		"hull": "BB",
+		"rarity": "Ultra Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"ulrich_von_hutten/ulrich_von_hutten.png",
+			"ulrich_von_hutten/ulrich_von_hutten_2.png",
+			"ulrich_von_hutten/ulrich_von_hutten_3.png"
+		]
+	},
+	{
+		"id": "286",
+		"name": "Umikaze",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"umikaze/umikaze.png",
+			"umikaze/umikaze_2.png",
+			"umikaze/umikaze_3.png"
+		]
+	},
+	{
+		"id": "142",
+		"name": "Unicorn",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"unicorn/unicorn.png",
+			"unicorn/unicorn_10.png",
+			"unicorn/unicorn_2.png",
+			"unicorn/unicorn_3.png",
+			"unicorn/unicorn_4.png",
+			"unicorn/unicorn_5.png",
+			"unicorn/unicorn_6.png",
+			"unicorn/unicorn_7.png",
+			"unicorn/unicorn_8.png",
+			"unicorn/unicorn_9.png",
+			"unicorn/unicorn_g.png",
+			"unicorn/unicorn_h.png"
+		]
+	},
+	{
+		"id": "1",
+		"name": "Universal Bullin",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": [
+			"universal_bullin/universal_bullin.png",
+			"universal_bullin/universal_bullin_2.png"
+		]
+	},
+	{
+		"id": "605",
+		"name": "Unzen",
+		"hull": "CA",
+		"rarity": "Ultra Rare",
+		"faction": "Sakura Empire",
+		"images": ["unzen/unzen.png", "unzen/unzen_2.png"]
+	},
+	{
+		"id": "316",
+		"name": "Urakaze",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"urakaze/urakaze.png",
+			"urakaze/urakaze_2.png",
+			"urakaze/urakaze_3.png"
+		]
+	},
+	{
+		"id": "429",
+		"name": "Uranami",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["uranami/uranami.png", "uranami/uranami_2.png"]
+	},
+	{
+		"id": "C034",
+		"name": "Uruuru",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": ["uruuru/uruuru.png", "uruuru/uruuru_2.png"]
+	},
+	{
+		"id": "274",
+		"name": "Uzuki",
+		"hull": "DD",
+		"rarity": "Common",
+		"faction": "Sakura Empire",
+		"images": ["uzuki/uzuki.png", "uzuki/uzuki_2.png"]
+	},
+	{
+		"id": "464",
+		"name": "Valiant",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"valiant/valiant.png",
+			"valiant/valiant_2.png",
+			"valiant/valiant_3.png"
+		]
+	},
+	{
+		"id": "103",
+		"name": "Vampire",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"vampire/vampire.png",
+			"vampire/vampire_2.png",
+			"vampire/vampire_3.png",
+			"vampire/vampire_4.png",
+			"vampire/vampire_5.png",
+			"vampire/vampire_6.png",
+			"vampire/vampire_alter.png",
+			"vampire/vampire_h.png"
+		]
+	},
+	{
+		"id": "137",
+		"name": "Vanguard",
+		"hull": "BB",
+		"rarity": "Ultra Rare",
+		"faction": "Royal Navy",
+		"images": ["vanguard/vanguard.png", "vanguard/vanguard_2.png"]
+	},
+	{
+		"id": "457",
+		"name": "Vauquelin",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Vichya Dominion",
+		"images": [
+			"vauquelin/vauquelin.png",
+			"vauquelin/vauquelin_2.png",
+			"vauquelin/vauquelin_3.png",
+			"vauquelin/vauquelin_4.png"
+		]
+	},
+	{
+		"id": "C004",
+		"name": "Vert",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": ["vert/vert.png"]
+	},
+	{
+		"id": "80",
+		"name": "Vestal",
+		"hull": "AR",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"vestal/vestal.png",
+			"vestal/vestal_2.png",
+			"vestal/vestal_alter.png"
+		]
+	},
+	{
+		"id": "146",
+		"name": "Victorious",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"victorious/victorious.png",
+			"victorious/victorious_2.png",
+			"victorious/victorious_3.png",
+			"victorious/victorious_4.png"
+		]
+	},
+	{
+		"id": "48",
+		"name": "Vincennes",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"vincennes/vincennes.png",
+			"vincennes/vincennes_2.png",
+			"vincennes/vincennes_3.png"
+		]
+	},
+	{
+		"id": "490",
+		"name": "Vincenzo Gioberti",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sardegna Empire",
+		"images": [
+			"vincenzo_gioberti/vincenzo_gioberti.png",
+			"vincenzo_gioberti/vincenzo_gioberti_3.png"
+		]
+	},
+	{
+		"id": "500",
+		"name": "Vittorio Veneto",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Sardegna Empire",
+		"images": [
+			"vittorio_veneto/vittorio_veneto.png",
+			"vittorio_veneto/vittorio_veneto_2.png"
+		]
+	},
+	{
+		"id": "538",
+		"name": "Volga",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Northern Parliament",
+		"images": ["volga/volga.png", "volga/volga_2.png"]
+	},
+	{
+		"id": "588",
+		"name": "Voroshilov",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Northern Parliament",
+		"images": ["voroshilov/voroshilov.png", "voroshilov/voroshilov_2.png"]
+	},
+	{
+		"id": "173",
+		"name": "Wakaba",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"wakaba/wakaba.png",
+			"wakaba/wakaba_2.png",
+			"wakaba/wakaba_3.png"
+		]
+	},
+	{
+		"id": "567",
+		"name": "Wakatsuki",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"wakatsuki/wakatsuki.png",
+			"wakatsuki/wakatsuki_2.png",
+			"wakatsuki/wakatsuki_3.png"
+		]
+	},
+	{
+		"id": "131",
+		"name": "Warspite",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": [
+			"warspite/warspite.png",
+			"warspite/warspite_2.png",
+			"warspite/warspite_3.png",
+			"warspite/warspite_g.png"
+		]
+	},
+	{
+		"id": "64",
+		"name": "Washington",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": ["washington/washington.png", "washington/washington_2.png"]
+	},
+	{
+		"id": "79",
+		"name": "Wasp",
+		"hull": "CV",
+		"rarity": "Rare",
+		"faction": "Eagle Union",
+		"images": ["wasp/wasp.png"]
+	},
+	{
+		"id": "485",
+		"name": "Weser",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": [
+			"weser/weser.png",
+			"weser/weser_2.png",
+			"weser/weser_3.png",
+			"weser/weser_4.png"
+		]
+	},
+	{
+		"id": "62",
+		"name": "West Virginia",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"west_virginia/west_virginia.png",
+			"west_virginia/west_virginia_2.png",
+			"west_virginia/west_virginia_3.png",
+			"west_virginia/west_virginia_g.png"
+		]
+	},
+	{
+		"id": "C007",
+		"name": "White Heart",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": [
+			"white_heart/white_heart_1.png",
+			"white_heart/white_heart_2.png"
+		]
+	},
+	{
+		"id": "614",
+		"name": "Whydah",
+		"hull": "Misc",
+		"rarity": "Elite",
+		"faction": "Tempesta",
+		"images": ["whydah/whydah.png", "whydah/whydah_2.png"]
+	},
+	{
+		"id": "49",
+		"name": "Wichita",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"wichita/wichita.png",
+			"wichita/wichita_2.png",
+			"wichita/wichita_3.png",
+			"wichita/wichita_alter.png"
+		]
+	},
+	{
+		"id": "287",
+		"name": "Yamakaze",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["yamakaze/yamakaze.png", "yamakaze/yamakaze_2.png"]
+	},
+	{
+		"id": "209",
+		"name": "Yamashiro",
+		"hull": "BB",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"yamashiro/yamashiro.png",
+			"yamashiro/yamashiro_2.png",
+			"yamashiro/yamashiro_3.png",
+			"yamashiro/yamashiro_4.png",
+			"yamashiro/yamashiro_6.png",
+			"yamashiro/yamashiro_7.png",
+			"yamashiro/yamashiro_8.png",
+			"yamashiro/yamashiro_alter.png",
+			"yamashiro/yamashiro_g.png",
+			"yamashiro/yamashiro_h.png"
+		]
+	},
+	{
+		"id": "257",
+		"name": "Yat Sen",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Dragon Empery",
+		"images": [
+			"yat_sen/yat_sen.png",
+			"yat_sen/yat_sen_2.png",
+			"yat_sen/yat_sen_3.png",
+			"yat_sen/yat_sen_g.png",
+			"yat_sen/yat_sen_h.png"
+		]
+	},
+	{
+		"id": "493",
+		"name": "Ying Swei",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Dragon Empery",
+		"images": [
+			"ying_swei/ying_swei.png",
+			"ying_swei/ying_swei_2.png",
+			"ying_swei/ying_swei_3.png"
+		]
+	},
+	{
+		"id": "297",
+		"name": "Yoizuki",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": [
+			"yoizuki/yoizuki.png",
+			"yoizuki/yoizuki_2.png",
+			"yoizuki/yoizuki_3.png"
+		]
+	},
+	{
+		"id": "547",
+		"name": "Yorck",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": [
+			"yorck/yorck.png",
+			"yorck/yorck_2.png",
+			"yorck/yorck_ger_3.png"
+		]
+	},
+	{
+		"id": "125",
+		"name": "York",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": [
+			"york/york.png",
+			"york/york_2.png",
+			"york/york_3.png",
+			"york/york_g.png",
+			"york/york_h.png"
+		]
+	},
+	{
+		"id": "76",
+		"name": "Yorktown",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": [
+			"yorktown/yorktown.png",
+			"yorktown/yorktown_2.png",
+			"yorktown/yorktown_3.png",
+			"yorktown/yorktown_h.png"
+		]
+	},
+	{
+		"id": "574",
+		"name": "Yorktown II",
+		"hull": "CV",
+		"rarity": "Ultra Rare",
+		"faction": "Eagle Union",
+		"images": ["yorktown_II/yorktown_II.png", "yorktown_II/yorktown_II_2.png"]
+	},
+	{
+		"id": "166",
+		"name": "Yukikaze",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"yukikaze/yukikaze.png",
+			"yukikaze/yukikaze_2.png",
+			"yukikaze/yukikaze_3.png",
+			"yukikaze/yukikaze_h.png"
+		]
+	},
+	{
+		"id": "C104",
+		"name": "Yumi",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Misc",
+		"images": ["yumi_SK/yumi_SK.png", "yumi_SK/yumi_SK_2.png"]
+	},
+	{
+		"id": "C106",
+		"name": "Murasaki",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": ["murasaki_SK/murasaki_SK.png", "murasaki_SK/murasaki_SK_2.png"]
+	},
+	{
+		"id": "185",
+		"name": "Yura",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["yura/yura.png", "yura/yura_2.png"]
+	},
+	{
+		"id": "179",
+		"name": "Yuubari",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["yuubari/yuubari.png", "yuubari/yuubari_g.png"]
+	},
+	{
+		"id": "164",
+		"name": "Yuudachi",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"yuudachi/yuudachi.png",
+			"yuudachi/yuudachi_2.png",
+			"yuudachi/yuudachi_3.png",
+			"yuudachi/yuudachi_4.png",
+			"yuudachi/yuudachi_5.png",
+			"yuudachi/yuudachi_g.png",
+			"yuudachi/yuudachi_h.png",
+			"yuudachi/yuudachi_hx.png"
+		]
+	},
+	{
+		"id": "176",
+		"name": "Yuugure",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"yuugure/yuugure.png",
+			"yuugure/yuugure_2.png",
+			"yuugure/yuugure_3.png",
+			"yuugure/yuugure_4.png",
+			"yuugure/yuugure_5.png",
+			"yuugure/yuugure_6.png",
+			"yuugure/yuugure_g.png"
+		]
+	},
+	{
+		"id": "C107",
+		"name": "Yuuyaki",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Misc",
+		"images": ["yuuyaki/yuuyaki.png", "yuuyaki/yuuyaki_2.png"]
+	},
+	{
+		"id": "233",
+		"name": "Z1",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["z1/z1.png", "z1/z1_2.png", "z1/z1_g.png"]
+	},
+	{
+		"id": "564",
+		"name": "Z16",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["z16/z16.png", "z16/z16_2.png"]
+	},
+	{
+		"id": "346",
+		"name": "Z18",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Iron Blood",
+		"images": ["z18/z18.png"]
+	},
+	{
+		"id": "264",
+		"name": "Z19",
+		"hull": "DD",
+		"rarity": "Rare",
+		"faction": "Iron Blood",
+		"images": ["z19/z19.png"]
+	},
+	{
+		"id": "379",
+		"name": "Z2",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["z2/z2.png", "z2/z2_2.png", "z2/z2_3.png"]
+	},
+	{
+		"id": "265",
+		"name": "Z20",
+		"hull": "DD",
+		"rarity": "Common",
+		"faction": "Iron Blood",
+		"images": ["z20/z20.png"]
+	},
+	{
+		"id": "266",
+		"name": "Z21",
+		"hull": "DD",
+		"rarity": "Common",
+		"faction": "Iron Blood",
+		"images": ["z21/z21.png"]
+	},
+	{
+		"id": "236",
+		"name": "Z23",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": [
+			"z23/z23.png",
+			"z23/z23_10.png",
+			"z23/z23_11.png",
+			"z23/z23_12.png",
+			"z23/z23_2.png",
+			"z23/z23_3.png",
+			"z23/z23_4.png",
+			"z23/z23_5.png",
+			"z23/z23_6.png",
+			"z23/z23_7.png",
+			"z23/z23_8.png",
+			"z23/z23_9.png",
+			"z23/z23_g.png",
+			"z23/z23_h.png",
+			"z23/z23_hx.png"
+		]
+	},
+	{
+		"id": "487",
+		"name": "Z24",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": [
+			"z24/z24.png",
+			"z24/z24_2.png",
+			"z24/z24_3.png",
+			"z24/z24_4.png"
+		]
+	},
+	{
+		"id": "237",
+		"name": "Z25",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["z25/z25.png", "z25/z25_2.png"]
+	},
+	{
+		"id": "466",
+		"name": "Z26",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": ["z26/z26.png", "z26/z26_2.png"]
+	},
+	{
+		"id": "488",
+		"name": "Z28",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["z28/z28.png", "z28/z28_3.png", "z28/z28_4.png"]
+	},
+	{
+		"id": "345",
+		"name": "Z35",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["z35/z35.png", "z35/z35_2.png", "z35/z35_3.png"]
+	},
+	{
+		"id": "388",
+		"name": "Z36",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["z36/z36.png"]
+	},
+	{
+		"id": "267",
+		"name": "Z46",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": [
+			"z46/z46.png",
+			"z46/z46_2.png",
+			"z46/z46_3.png",
+			"z46/z46_4.png",
+			"z46/z46_5.png",
+			"z46/z46_6.png",
+			"z46/z46_7.png"
+		]
+	},
+	{
+		"id": "413",
+		"name": "Zara",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Sardegna Empire",
+		"images": ["zara/zara.png", "zara/zara_2.png"]
+	},
+	{
+		"id": "229",
+		"name": "Zuikaku",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": [
+			"zuikaku/zuikaku.png",
+			"zuikaku/zuikaku_2.png",
+			"zuikaku/zuikaku_3.png"
+		]
+	},
+	{
+		"id": "P021",
+		"name": "Ägir",
+		"hull": "CA",
+		"rarity": "Ultra Rare",
+		"faction": "Iron Blood",
+		"images": ["ägir/ägir.png", "ägir/ägir_2.png", "ägir/ägir_3.png"]
+	},
+	{
+		"id": "349",
+		"name": "Émile Bertin",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Iris Libre",
+		"images": [
+			"émile_bertin/émile_bertin.png",
+			"émile_bertin/émile_bertin_2.png",
+			"émile_bertin/émile_bertin_3.png",
+			"émile_bertin/émile_bertin_4.png",
+			"émile_bertin/émile_bertin_g.png"
+		]
+	},
+	{
+		"id": "641",
+		"name": "Alsace",
+		"hull": "BB",
+		"rarity": "Ultra Rare",
+		"faction": "Iris Libre",
+		"images": ["alsace/alsace.png", "alsace/alsace_2.png"]
+	},
+	{
+		"id": "643",
+		"name": "Brennus",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Iris Libre",
+		"images": ["brennus/brennus.png", "brennus/brennus_2.png"]
+	},
+	{
+		"id": "645",
+		"name": "Fleuret",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Vichya Dominion",
+		"images": ["fleuret/fleuret.png", "fleuret/fleuret_2.png"]
+	},
+	{
+		"id": "642",
+		"name": "Mogador",
+		"hull": "DD",
+		"rarity": "Ultra Rare",
+		"faction": "Vichya Dominion",
+		"images": ["mogador/mogador.png", "mogador/mogador_2.png"]
+	},
+	{
+		"id": "646",
+		"name": "Épée",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Vichya Dominion",
+		"images": ["épée/épée.png", "épée/épée_2.png"]
+	}
+]
