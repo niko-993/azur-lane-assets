@@ -137,7 +137,8 @@
 			"akagi/akagi_6.png",
 			"akagi/akagi_h.png",
 			"akagi/akagi_idol.png",
-			"akagi/akagi_younv.png"
+			"akagi/akagi_younv.png",
+			"akagi/akagi_alter.png"
 		]
 	},
 	{
@@ -307,7 +308,8 @@
 		"images": [
 			"anchorage/anchorage.png",
 			"anchorage/anchorage_2.png",
-			"anchorage/anchorage_3.png"
+			"anchorage/anchorage_3.png",
+			"anchorage/anchorage_h.png"
 		]
 	},
 	{
@@ -428,7 +430,8 @@
 			"ark_royal/ark_royal_5.png",
 			"ark_royal/ark_royal_alter.png",
 			"ark_royal/ark_royal_g.png",
-			"ark_royal/ark_royal_h.png"
+			"ark_royal/ark_royal_h.png",
+			"ark_royal/ark_royal_6.png"
 		]
 	},
 	{
@@ -696,6 +699,7 @@
 			"belfast/belfast_5.png",
 			"belfast/belfast_7.png",
 			"belfast/belfast_8.png",
+			"belfast/belfast_9.png",
 			"belfast/belfast_h.png",
 			"belfast/belfast_younv.png"
 		]
@@ -816,8 +820,7 @@
 		"images": [
 			"blücher/blücher.png",
 			"blücher/blücher_2.png",
-			"blücher/blücher_3.png",
-			"blücher/blücher_hx.png"
+			"blücher/blücher_3.png"
 		]
 	},
 	{
@@ -1110,8 +1113,8 @@
 			"cheshire/cheshire_2.png",
 			"cheshire/cheshire_3.png",
 			"cheshire/cheshire_4.png",
-			"cheshire/cheshire_younv.png",
-			"cheshire/cheshire_5.png"
+			"cheshire/cheshire_5.png",
+			"cheshire/cheshire_younv.png"
 		]
 	},
 	{
@@ -1443,7 +1446,8 @@
 		"images": [
 			"duke_of_york/duke_of_york.png",
 			"duke_of_york/duke_of_york_2.png",
-			"duke_of_york/duke_of_york_3.png"
+			"duke_of_york/duke_of_york_3.png",
+			"duke_of_york/duke_of_york_4.png"
 		]
 	},
 	{
@@ -1520,7 +1524,9 @@
 			"eldridge/eldridge_4.png",
 			"eldridge/eldridge_5.png",
 			"eldridge/eldridge_7.png",
-			"eldridge/eldridge_h.png"
+			"eldridge/eldridge_h.png",
+			"eldridge/eldridge_8.png",
+			"eldridge/eldridge_g.png"
 		]
 	},
 	{
@@ -1722,9 +1728,9 @@
 			"formidable/formidable.png",
 			"formidable/formidable_2.png",
 			"formidable/formidable_3.png",
-			"formidable/formidable_younv.png",
 			"formidable/formidable_4.png",
-			"formidable/formidable_idol.png"
+			"formidable/formidable_idol.png",
+			"formidable/formidable_younv.png"
 		]
 	},
 	{
@@ -1768,6 +1774,7 @@
 		"images": [
 			"friedrich_der_große/friedrich_der_große.png",
 			"friedrich_der_große/friedrich_der_große_2.png",
+			"friedrich_der_große/friedrich_der_große_3.png",
 			"friedrich_der_große/friedrich_der_große_h.png",
 			"friedrich_der_große/friedrich_der_große_younv.png"
 		]
@@ -1792,7 +1799,8 @@
 			"fubuki/fubuki_3.png",
 			"fubuki/fubuki_4.png",
 			"fubuki/fubuki_5.png",
-			"fubuki/fubuki_6.png"
+			"fubuki/fubuki_6.png",
+			"fubuki/fubuki_7.png"
 		]
 	},
 	{
@@ -1951,7 +1959,11 @@
 		"hull": "CL",
 		"rarity": "Elite",
 		"faction": "Royal Navy",
-		"images": ["gloucester/gloucester.png", "gloucester/gloucester_2.png"]
+		"images": [
+			"gloucester/gloucester.png",
+			"gloucester/gloucester_2.png",
+			"gloucester/gloucester_3.png"
+		]
 	},
 	{
 		"id": "94",
@@ -2106,7 +2118,8 @@
 			"hai_tien/hai_tien_2.png",
 			"hai_tien/hai_tien_3.png",
 			"hai_tien/hai_tien_4.png",
-			"hai_tien/hai_tien_h.png"
+			"hai_tien/hai_tien_h.png",
+			"hai_tien/hai_tien_5.png"
 		]
 	},
 	{
@@ -2157,7 +2170,8 @@
 			"hammann/hammann_3.png",
 			"hammann/hammann_4.png",
 			"hammann/hammann_5.png",
-			"hammann/hammann_g.png"
+			"hammann/hammann_g.png",
+			"hammann/hammann_6.png"
 		]
 	},
 	{
@@ -2348,7 +2362,8 @@
 			"hiei/hiei_2.png",
 			"hiei/hiei_4.png",
 			"hiei/hiei_5.png",
-			"hiei/hiei_younv.png"
+			"hiei/hiei_younv.png",
+			"hiei/hiei_alter.png"
 		]
 	},
 	{
@@ -2734,6 +2749,7 @@
 			"illustrious/illustrious_4.png",
 			"illustrious/illustrious_5.png",
 			"illustrious/illustrious_6.png",
+			"illustrious/illustrious_7.png",
 			"illustrious/illustrious_h.png",
 			"illustrious/illustrious_idol.png",
 			"illustrious/illustrious_younv.png"
@@ -2987,7 +3003,8 @@
 		"images": [
 			"joffre/joffre.png",
 			"joffre/joffre_2.png",
-			"joffre/joffre_3.png"
+			"joffre/joffre_3.png",
+			"joffre/joffre_4.png"
 		]
 	},
 	{
@@ -3126,7 +3143,8 @@
 			"kasumi/kasumi.png",
 			"kasumi/kasumi_2.png",
 			"kasumi/kasumi_3.png",
-			"kasumi/kasumi_g.png"
+			"kasumi/kasumi_g.png",
+			"kasumi/kasumi_alter.png"
 		]
 	},
 	{
@@ -3196,7 +3214,11 @@
 		"hull": "DD",
 		"rarity": "Elite",
 		"faction": "Vichya Dominion",
-		"images": ["kersaint/kersaint.png", "kersaint/kersaint_2.png"]
+		"images": [
+			"kersaint/kersaint.png",
+			"kersaint/kersaint_2.png",
+			"kersaint/kersaint_3.png"
+		]
 	},
 	{
 		"id": "535",
@@ -3490,8 +3512,7 @@
 			"la_galissonnière/la_galissonnière_2.png",
 			"la_galissonnière/la_galissonnière_3.png",
 			"la_galissonnière/la_galissonnière_4.png",
-			"la_galissonnière/la_galissonnière_alter.png",
-			"la_galissonnière/la_galissonnière_alter_hx.png"
+			"la_galissonnière/la_galissonnière_alter.png"
 		]
 	},
 	{
@@ -3884,7 +3905,11 @@
 		"hull": "BB",
 		"rarity": "Elite",
 		"faction": "Eagle Union",
-		"images": ["maryland/maryland.png", "maryland/maryland_2.png"]
+		"images": [
+			"maryland/maryland.png",
+			"maryland/maryland_2.png",
+			"maryland/maryland_g.png"
+		]
 	},
 	{
 		"id": "354",
@@ -4162,7 +4187,8 @@
 		"images": [
 			"musashi/musashi.png",
 			"musashi/musashi_2.png",
-			"musashi/musashi_h.png"
+			"musashi/musashi_h.png",
+			"musashi/musashi_3.png"
 		]
 	},
 	{
@@ -4192,7 +4218,8 @@
 			"mutsuki/mutsuki_2.png",
 			"mutsuki/mutsuki_3.png",
 			"mutsuki/mutsuki_4.png",
-			"mutsuki/mutsuki_g.png"
+			"mutsuki/mutsuki_g.png",
+			"mutsuki/mutsuki_5.png"
 		]
 	},
 	{
@@ -4245,7 +4272,8 @@
 			"nagato/nagato_3.png",
 			"nagato/nagato_4.png",
 			"nagato/nagato_5.png",
-			"nagato/nagato_h.png"
+			"nagato/nagato_h.png",
+			"nagato/nagato_alter.png"
 		]
 	},
 	{
@@ -4629,7 +4657,11 @@
 		"hull": "CV",
 		"rarity": "Super Rare",
 		"faction": "Iris Libre",
-		"images": ["painlevé/painlevé.png", "painlevé/painlevé_2.png"]
+		"images": [
+			"painlevé/painlevé.png",
+			"painlevé/painlevé_2.png",
+			"painlevé/painlevé_3.png"
+		]
 	},
 	{
 		"id": "434",
@@ -4711,8 +4743,7 @@
 			"peter_strasser/peter_strasser.png",
 			"peter_strasser/peter_strasser_2.png",
 			"peter_strasser/peter_strasser_3.png",
-			"peter_strasser/peter_strasser_4.png",
-			"peter_strasser/peter_strasser_hx.png"
+			"peter_strasser/peter_strasser_4.png"
 		]
 	},
 	{
@@ -4880,7 +4911,8 @@
 		"faction": "Iron Blood",
 		"images": [
 			"prinz_rupprecht/prinz_rupprecht.png",
-			"prinz_rupprecht/prinz_rupprecht_2.png"
+			"prinz_rupprecht/prinz_rupprecht_2.png",
+			"prinz_rupprecht/prinz_rupprecht_3.png"
 		]
 	},
 	{
@@ -5046,7 +5078,7 @@
 		"hull": "BB",
 		"rarity": "Super Rare",
 		"faction": "Sardegna Empire",
-		"images": ["roma/roma.png", "roma/roma_2.png"]
+		"images": ["roma/roma.png", "roma/roma_2.png", "roma/roma_4.png"]
 	},
 	{
 		"id": "P005",
@@ -5106,7 +5138,8 @@
 		"images": [
 			"ryuujou/ryuujou.png",
 			"ryuujou/ryuujou_2.png",
-			"ryuujou/ryuujou_3.png"
+			"ryuujou/ryuujou_3.png",
+			"ryuujou/ryuujou_4.png"
 		]
 	},
 	{
@@ -5165,7 +5198,6 @@
 		"images": [
 			"san_francisco/san_francisco.png",
 			"san_francisco/san_francisco_3.png",
-			"san_francisco/san_francisco_3_hx.png",
 			"san_francisco/san_francisco_4.png"
 		]
 	},
@@ -5313,7 +5345,8 @@
 			"sheffield/sheffield_4.png",
 			"sheffield/sheffield_5.png",
 			"sheffield/sheffield_alter.png",
-			"sheffield/sheffield_idol.png"
+			"sheffield/sheffield_idol.png",
+			"sheffield/sheffield_6.png"
 		]
 	},
 	{
@@ -5888,7 +5921,6 @@
 		"images": [
 			"ticonderoga/ticonderoga.png",
 			"ticonderoga/ticonderoga_2.png",
-			"ticonderoga/ticonderoga_2_hx.png",
 			"ticonderoga/ticonderoga_3.png"
 		]
 	},
@@ -6041,7 +6073,12 @@
 		"hull": "SS",
 		"rarity": "Elite",
 		"faction": "Iron Blood",
-		"images": ["u-556/u-556.png", "u-556/u-556_2.png", "u-556/u556_alter.png"]
+		"images": [
+			"u-556/u-556.png",
+			"u-556/u-556_2.png",
+			"u-556/u556_alter.png",
+			"u-556/u-556_3.png"
+		]
 	},
 	{
 		"id": "344",
@@ -6073,7 +6110,12 @@
 		"hull": "SS",
 		"rarity": "Super Rare",
 		"faction": "Iron Blood",
-		"images": ["u-96/u-96.png", "u-96/u-96_2.png", "u-96/u-96_3.png"]
+		"images": [
+			"u-96/u-96.png",
+			"u-96/u-96_2.png",
+			"u-96/u-96_3.png",
+			"u-96/u-96_4.png"
+		]
 	},
 	{
 		"id": "529",
@@ -6117,7 +6159,8 @@
 			"unicorn/unicorn_8.png",
 			"unicorn/unicorn_9.png",
 			"unicorn/unicorn_g.png",
-			"unicorn/unicorn_h.png"
+			"unicorn/unicorn_h.png",
+			"unicorn/unicorn_11.png"
 		]
 	},
 	{
@@ -6589,8 +6632,7 @@
 			"yuudachi/yuudachi_4.png",
 			"yuudachi/yuudachi_5.png",
 			"yuudachi/yuudachi_g.png",
-			"yuudachi/yuudachi_h.png",
-			"yuudachi/yuudachi_hx.png"
+			"yuudachi/yuudachi_h.png"
 		]
 	},
 	{
@@ -6693,8 +6735,7 @@
 			"z23/z23_8.png",
 			"z23/z23_9.png",
 			"z23/z23_g.png",
-			"z23/z23_h.png",
-			"z23/z23_hx.png"
+			"z23/z23_h.png"
 		]
 	},
 	{
@@ -6740,7 +6781,12 @@
 		"hull": "DD",
 		"rarity": "Elite",
 		"faction": "Iron Blood",
-		"images": ["z35/z35.png", "z35/z35_2.png", "z35/z35_3.png"]
+		"images": [
+			"z35/z35.png",
+			"z35/z35_2.png",
+			"z35/z35_3.png",
+			"z35/z35_4.png"
+		]
 	},
 	{
 		"id": "388",
@@ -6783,7 +6829,8 @@
 		"images": [
 			"zuikaku/zuikaku.png",
 			"zuikaku/zuikaku_2.png",
-			"zuikaku/zuikaku_3.png"
+			"zuikaku/zuikaku_3.png",
+			"zuikaku/zuikaku_4.png"
 		]
 	},
 	{
@@ -6847,5 +6894,181 @@
 		"rarity": "Elite",
 		"faction": "Vichya Dominion",
 		"images": ["épée/épée.png", "épée/épée_2.png"]
+	},
+	{
+		"id": "P036",
+		"name": "Admiral Nakhimov",
+		"hull": "CV",
+		"rarity": "Ultra Rare",
+		"faction": "Northern Parliament",
+		"images": ["admiral_nakhimov/admiral_nakhimov.png"]
+	},
+	{
+		"id": "648",
+		"name": "Alvitr",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": ["alvitr/alvitr.png", "alvitr/alvitr_2.png"]
+	},
+	{
+		"id": "660",
+		"name": "Amagi CV",
+		"hull": "CV",
+		"rarity": "Ultra Rare",
+		"faction": "Sakura Empire",
+		"images": ["amagi_CV/amagi_CV.png", "amagi_CV/amagi_CV_2.png"]
+	},
+	{
+		"id": "662",
+		"name": "Ayase",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["ayase/ayase.png", "ayase/ayase_2.png"]
+	},
+	{
+		"id": "P037",
+		"name": "Bayard",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Iris Libre",
+		"images": ["bayard/bayard.png"]
+	},
+	{
+		"id": "659",
+		"name": "Bell",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["bell/bell.png", "bell/bell_2.png"]
+	},
+	{
+		"id": "P034",
+		"name": "Daisen",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": ["daisen/daisen.png"]
+	},
+	{
+		"id": "654",
+		"name": "Dupleix",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Vichya Dominion",
+		"images": ["dupleix/dupleix.png", "dupleix/dupleix_2.png"]
+	},
+	{
+		"id": "657",
+		"name": "Fargo",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": ["fargo/fargo.png", "fargo/fargo_2.png"]
+	},
+	{
+		"id": "P033",
+		"name": "Halford",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": ["halford/halford.png"]
+	},
+	{
+		"id": "658",
+		"name": "Herring",
+		"hull": "SS",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["herring/herring.png", "herring/herring_2.png"]
+	},
+	{
+		"id": "66",
+		"name": "Indiana",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": ["indiana/indiana.png", "indiana/indiana_2.png"]
+	},
+	{
+		"id": "653",
+		"name": "L'Audacieux",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Vichya Dominion",
+		"images": ["l'Audacieux/l'Audacieux.png", "l'Audacieux/l'Audacieux_2.png"]
+	},
+	{
+		"id": "P035",
+		"name": "Napoli",
+		"hull": "CA",
+		"rarity": "Ultra Rare",
+		"faction": "Sardegna Empire",
+		"images": ["napoli/napoli.png"]
+	},
+	{
+		"id": "655",
+		"name": "Pittsburgh",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Eagle Union",
+		"images": ["pittsburgh/pittsburgh.png", "pittsburgh/pittsburgh_2.png"]
+	},
+	{
+		"id": "652",
+		"name": "Strasbourg",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Vichya Dominion",
+		"images": ["strasbourg/strasbourg.png", "strasbourg/strasbourg_2.png"]
+	},
+	{
+		"id": "663",
+		"name": "Suzunami",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["suzunami/suzunami.png", "suzunami/suzunami_2.png"]
+	},
+	{
+		"id": "650",
+		"name": "U-31",
+		"hull": "SS",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["u-31/u-31.png", "u-31/u-31_2.png"]
+	},
+	{
+		"id": "661",
+		"name": "Watarase",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": ["watarase/watarase.png", "watarase/watarase_2.png"]
+	},
+	{
+		"id": "651",
+		"name": "Z43",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["z43/z43.png", "z43/z43_2.png"]
+	},
+	{
+		"id": "649",
+		"name": "Z47",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": ["z47/z47.png", "z47/z47_2.png"]
+	},
+	{
+		"id": "221",
+		"name": "Zuihou",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": ["zuihou/zuihou.png", "zuihou/zuihou_2.png"]
 	}
 ]
