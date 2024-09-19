@@ -15,7 +15,7 @@ function formatName(folderName) {
 function getImages(folder) {
 	const imagesArray = fs
 		.readdirSync(folder)
-		.filter((file) => file.endsWith('.avif'))
+		.filter((file) => file.endsWith('.png'))
 		.map((file) => folder + '/' + file)
 
 	return imagesArray
