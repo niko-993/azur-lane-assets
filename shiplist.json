@@ -7268,7 +7268,7 @@
 	},
 	{
 		"id": "586",
-		"name": "Admiral Graf Spee",
+		"name": "Little Spee",
 		"hull": "CA",
 		"rarity": "Elite",
 		"faction": "Iron Blood",
@@ -7276,7 +7276,7 @@
 	},
 	{
 		"id": "384",
-		"name": "Akagi",
+		"name": "Akagi-chan",
 		"hull": "CV",
 		"rarity": "Elite",
 		"faction": "Sakura Empire",
@@ -7284,7 +7284,7 @@
 	},
 	{
 		"id": "510",
-		"name": "Amagi",
+		"name": "Amagi-chan",
 		"hull": "BB",
 		"rarity": "Elite",
 		"faction": "Sakura Empire",
@@ -7292,7 +7292,7 @@
 	},
 	{
 		"id": "335",
-		"name": "Belfast",
+		"name": "Little Bel",
 		"hull": "CL",
 		"rarity": "Elite",
 		"faction": "Royal Navy",
@@ -7300,7 +7300,7 @@
 	},
 	{
 		"id": "552",
-		"name": "Cheshire",
+		"name": "Little Cheshire",
 		"hull": "CA",
 		"rarity": "Elite",
 		"faction": "Royal Navy",
@@ -7308,7 +7308,7 @@
 	},
 	{
 		"id": "391",
-		"name": "Cleveland",
+		"name": "Clevelad",
 		"hull": "CL",
 		"rarity": "Elite",
 		"faction": "Eagle Union",
@@ -7316,7 +7316,7 @@
 	},
 	{
 		"id": "516",
-		"name": "Enterprise",
+		"name": "Little Enterprise",
 		"hull": "CV",
 		"rarity": "Elite",
 		"faction": "Eagle Union",
@@ -7324,7 +7324,7 @@
 	},
 	{
 		"id": "589",
-		"name": "Formidable",
+		"name": "Little Formidable",
 		"hull": "CV",
 		"rarity": "Elite",
 		"faction": "Royal Navy",
@@ -7332,7 +7332,7 @@
 	},
 	{
 		"id": "647",
-		"name": "Friedrich der Große",
+		"name": "Little Friedrich",
 		"hull": "BB",
 		"rarity": "Elite",
 		"faction": "Iron Blood",
@@ -7340,7 +7340,7 @@
 	},
 	{
 		"id": "385",
-		"name": "Graf Zeppelin",
+		"name": "Zeppelin-chan",
 		"hull": "CV",
 		"rarity": "Elite",
 		"faction": "Iron Blood",
@@ -7348,7 +7348,7 @@
 	},
 	{
 		"id": "390",
-		"name": "Helena",
+		"name": "Lena",
 		"hull": "CL",
 		"rarity": "Elite",
 		"faction": "Eagle Union",
@@ -7356,7 +7356,7 @@
 	},
 	{
 		"id": "383",
-		"name": "Hiei",
+		"name": "Hiei-chan",
 		"hull": "BB",
 		"rarity": "Elite",
 		"faction": "Sakura Empire",
@@ -7364,7 +7364,7 @@
 	},
 	{
 		"id": "459",
-		"name": "Illustrious",
+		"name": "Little Illustrious",
 		"hull": "CV",
 		"rarity": "Elite",
 		"faction": "Royal Navy",
@@ -7372,7 +7372,7 @@
 	},
 	{
 		"id": "549",
-		"name": "Prinz Eugen",
+		"name": "Little Prinz Eugen",
 		"hull": "CA",
 		"rarity": "Elite",
 		"faction": "Iron Blood",
@@ -7380,7 +7380,7 @@
 	},
 	{
 		"id": "451",
-		"name": "Renown",
+		"name": "Little Renown",
 		"hull": "BB",
 		"rarity": "Elite",
 		"faction": "Royal Navy",
@@ -7388,7 +7388,7 @@
 	},
 	{
 		"id": "392",
-		"name": "San Diego",
+		"name": "Li'l Sandy",
 		"hull": "CL",
 		"rarity": "Elite",
 		"faction": "Eagle Union",
@@ -7396,7 +7396,7 @@
 	},
 	{
 		"id": "639",
-		"name": "Shinano",
+		"name": "Shinano-chan",
 		"hull": "CV",
 		"rarity": "Elite",
 		"faction": "Sakura Empire",
@@ -7404,7 +7404,7 @@
 	},
 	{
 		"id": "594",
-		"name": "Taihou",
+		"name": "Taihou-chan",
 		"hull": "CV",
 		"rarity": "Elite",
 		"faction": "Sakura Empire",
