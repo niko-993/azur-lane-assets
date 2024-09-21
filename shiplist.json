@@ -7409,5 +7409,157 @@
 		"rarity": "Elite",
 		"faction": "Sakura Empire",
 		"images": ["_children/taihou_younv.png"]
+	},
+	{
+		"id": "422",
+		"name": "Admiral Hipper μ",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["_idol/admiral_hipper_idol.png"]
+	},
+	{
+		"id": "419",
+		"name": "Akagi μ",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": ["_idol/akagi_idol.png"]
+	},
+	{
+		"id": "477",
+		"name": "Albacore μ",
+		"hull": "SS",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["_idol/albacore_idol.png"]
+	},
+	{
+		"id": "478",
+		"name": "Baltimore μ",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["_idol/baltimore_idol.png"]
+	},
+	{
+		"id": "638",
+		"name": "Boise μ",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["_idol/boise_idol.png"]
+	},
+	{
+		"id": "420",
+		"name": "Cleveland μ",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["_idol/cleveland_idol.png"]
+	},
+	{
+		"id": "476",
+		"name": "Dido μ",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": ["_idol/dido_idol.png"]
+	},
+	{
+		"id": "633",
+		"name": "Formidable μ",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": ["_idol/formidable_idol.png"]
+	},
+	{
+		"id": "418",
+		"name": "Gascogne μ",
+		"hull": "BB",
+		"rarity": "Super Rare",
+		"faction": "Vichya Dominion",
+		"images": ["_idol/gascogne_idol.png"]
+	},
+	{
+		"id": "480",
+		"name": "Illustrious μ",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Royal Navy",
+		"images": ["_idol/illustrious_idol.png"]
+	},
+	{
+		"id": "636",
+		"name": "Kongou μ",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["_idol/kongou_idol.png"]
+	},
+	{
+		"id": "481",
+		"name": "Le Malin μ",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Vichya Dominion",
+		"images": ["_idol/le_malin_idol.png"]
+	},
+	{
+		"id": "637",
+		"name": "Le Téméraire μ",
+		"hull": "DD",
+		"rarity": "Elite",
+		"faction": "Iris Libre",
+		"images": ["_idol/le_téméraire_idol.png"]
+	},
+	{
+		"id": "635",
+		"name": "Noshiro μ",
+		"hull": "CL",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": ["_idol/noshiro_idol.png"]
+	},
+	{
+		"id": "634",
+		"name": "Prinz Eugen μ",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": ["_idol/prinz_eugen_idol.png"]
+	},
+	{
+		"id": "479",
+		"name": "Roon μ",
+		"hull": "CA",
+		"rarity": "Super Rare",
+		"faction": "Iron Blood",
+		"images": ["_idol/roon_idol.png"]
+	},
+	{
+		"id": "421",
+		"name": "Sheffield μ",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["_idol/sheffield_idol.png"]
+	},
+	{
+		"id": "474",
+		"name": "Taihou μ",
+		"hull": "CV",
+		"rarity": "Super Rare",
+		"faction": "Sakura Empire",
+		"images": ["_idol/taihou_idol.png"]
+	},
+	{
+		"id": "475",
+		"name": "Tashkent μ",
+		"hull": "DD",
+		"rarity": "Super Rare",
+		"faction": "Northern Parliament",
+		"images": ["_idol/tashkent_idol.png"]
 	}
 ]
