@@ -7265,5 +7265,149 @@
 		"rarity": "Elite",
 		"faction": "META",
 		"images": ["_meta/u556_alter.png"]
+	},
+	{
+		"id": "586",
+		"name": "Admiral Graf Spee",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["_children/admiral_graf_spee_younv.png"]
+	},
+	{
+		"id": "384",
+		"name": "Akagi",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["_children/akagi_younv.png"]
+	},
+	{
+		"id": "510",
+		"name": "Amagi",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["_children/amagi_younv.png"]
+	},
+	{
+		"id": "335",
+		"name": "Belfast",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["_children/belfast_younv.png"]
+	},
+	{
+		"id": "552",
+		"name": "Cheshire",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["_children/cheshire_younv.png"]
+	},
+	{
+		"id": "391",
+		"name": "Cleveland",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["_children/cleveland_younv.png"]
+	},
+	{
+		"id": "516",
+		"name": "Enterprise",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["_children/enterprise_younv.png"]
+	},
+	{
+		"id": "589",
+		"name": "Formidable",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["_children/formidable_younv.png"]
+	},
+	{
+		"id": "647",
+		"name": "Friedrich der Große",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["_children/friedrich_der_große_younv.png"]
+	},
+	{
+		"id": "385",
+		"name": "Graf Zeppelin",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["_children/graf_zeppelin_younv.png"]
+	},
+	{
+		"id": "390",
+		"name": "Helena",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["_children/helena_younv.png"]
+	},
+	{
+		"id": "383",
+		"name": "Hiei",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["_children/hiei_younv.png"]
+	},
+	{
+		"id": "459",
+		"name": "Illustrious",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["_children/illustrious_younv.png"]
+	},
+	{
+		"id": "549",
+		"name": "Prinz Eugen",
+		"hull": "CA",
+		"rarity": "Elite",
+		"faction": "Iron Blood",
+		"images": ["_children/prinz_eugen_younv.png"]
+	},
+	{
+		"id": "451",
+		"name": "Renown",
+		"hull": "BB",
+		"rarity": "Elite",
+		"faction": "Royal Navy",
+		"images": ["_children/renown_younv.png"]
+	},
+	{
+		"id": "392",
+		"name": "San Diego",
+		"hull": "CL",
+		"rarity": "Elite",
+		"faction": "Eagle Union",
+		"images": ["_children/san_diego_younv.png"]
+	},
+	{
+		"id": "639",
+		"name": "Shinano",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["_children/shinano_younv.png"]
+	},
+	{
+		"id": "594",
+		"name": "Taihou",
+		"hull": "CV",
+		"rarity": "Elite",
+		"faction": "Sakura Empire",
+		"images": ["_children/taihou_younv.png"]
 	}
 ]
