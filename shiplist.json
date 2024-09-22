@@ -484,7 +484,7 @@
 		"id": "55",
 		"name": "Arizona",
 		"hull": "BB",
-		"rarity": "Elite",
+		"rarity": "Super Rare",
 		"faction": "Eagle Union",
 		"images": ["arizona/arizona.png", "arizona/arizona_2.png"]
 	},
@@ -500,7 +500,7 @@
 		"id": "144",
 		"name": "Ark Royal",
 		"hull": "CV",
-		"rarity": "Elite",
+		"rarity": "Super Rare",
 		"faction": "Royal Navy",
 		"images": [
 			"ark_royal/ark_royal.png",
@@ -807,7 +807,7 @@
 		"id": "M033",
 		"name": "Béarn META",
 		"hull": "CV",
-		"rarity": "Elite",
+		"rarity": "Super Rare",
 		"faction": "META",
 		"images": ["_meta/béarn_alter.png"]
 	},
@@ -2228,7 +2228,7 @@
 		"id": "M007",
 		"name": "Gneisenau META",
 		"hull": "BB",
-		"rarity": "Elite",
+		"rarity": "Super Rare",
 		"faction": "META",
 		"images": ["_meta/gneisenau_alter.png"]
 	},
@@ -2575,7 +2575,7 @@
 		"id": "M003",
 		"name": "Helena META",
 		"hull": "CL",
-		"rarity": "Elite",
+		"rarity": "Super Rare",
 		"faction": "META",
 		"images": ["_meta/helena_alter.png"]
 	},
@@ -2644,7 +2644,7 @@
 		"id": "M038",
 		"name": "Hiei META",
 		"hull": "BB",
-		"rarity": "Elite",
+		"rarity": "Super Rare",
 		"faction": "META",
 		"images": ["_meta/hiei_alter.png"]
 	},
@@ -2680,7 +2680,7 @@
 		"id": "M001",
 		"name": "Hiryuu META",
 		"hull": "CV",
-		"rarity": "Elite",
+		"rarity": "Super Rare",
 		"faction": "META",
 		"images": ["_meta/hiryuu_alter.png"]
 	},
@@ -3247,7 +3247,7 @@
 		"id": "M025",
 		"name": "Jintsuu META",
 		"hull": "CL",
-		"rarity": "Elite",
+		"rarity": "Super Rare",
 		"faction": "META",
 		"images": ["_meta/jintsuu_alter.png"]
 	},
@@ -5190,7 +5190,7 @@
 		"id": "M030",
 		"name": "Pamiat Merkuria META",
 		"hull": "CL",
-		"rarity": "Elite",
+		"rarity": "Super Rare",
 		"faction": "META",
 		"images": ["_meta/pamiat_merkuria_alter.png"]
 	},
@@ -5482,7 +5482,7 @@
 		"id": "M019",
 		"name": "Queen Elizabeth META",
 		"hull": "BB",
-		"rarity": "Elite",
+		"rarity": "Super Rare",
 		"faction": "META",
 		"images": ["_meta/queen_elizabeth_alter.png"]
 	},
@@ -5563,7 +5563,7 @@
 		"id": "M014",
 		"name": "Renown META",
 		"hull": "BB",
-		"rarity": "Elite",
+		"rarity": "Super Rare",
 		"faction": "META",
 		"images": ["_meta/renown_alter.png"]
 	},
@@ -5579,7 +5579,7 @@
 		"id": "M012",
 		"name": "Repulse META",
 		"hull": "BB",
-		"rarity": "Rare",
+		"rarity": "Super Rare",
 		"faction": "META",
 		"images": ["_meta/repulse_alter.png"]
 	},
@@ -5629,7 +5629,7 @@
 		"id": "M031",
 		"name": "Rodney META",
 		"hull": "BB",
-		"rarity": "Elite",
+		"rarity": "Super Rare",
 		"faction": "META",
 		"images": ["_meta/rodney_alter.png"]
 	},
@@ -5832,7 +5832,7 @@
 		"id": "M009",
 		"name": "Scharnhorst META",
 		"hull": "BB",
-		"rarity": "Elite",
+		"rarity": "Super Rare",
 		"faction": "META",
 		"images": ["_meta/scharnhorst_alter.png"]
 	},
@@ -6139,7 +6139,7 @@
 		"id": "M004",
 		"name": "Souryuu META",
 		"hull": "CV",
-		"rarity": "Elite",
+		"rarity": "Super Rare",
 		"faction": "META",
 		"images": ["_meta/souryuu_alter.png"]
 	},
@@ -6748,7 +6748,7 @@
 		"id": "M021",
 		"name": "U-556 META",
 		"hull": "SS",
-		"rarity": "Elite",
+		"rarity": "Super Rare",
 		"faction": "META",
 		"images": ["_meta/u556_alter.png"]
 	},
@@ -7156,7 +7156,7 @@
 		"id": "M035",
 		"name": "Wichita META",
 		"hull": "CA",
-		"rarity": "Elite",
+		"rarity": "Super Rare",
 		"faction": "META",
 		"images": ["_meta/wichita_alter.png"]
 	},
